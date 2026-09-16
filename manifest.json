@@ -1,0 +1,9 @@
+{
+  "name": "Dompetku \u2014 Expense Tracker",
+  "short_name": "Dompetku",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#111827",
+  "icons": []
+}
