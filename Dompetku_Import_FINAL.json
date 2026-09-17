@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "5ccf74e0-7822-4660-9e63-2f56ae8742c6",
+    "amount": 19000,
+    "cat": "Makan",
+    "date": "2025-07-08",
+    "method": "Lainnya",
+    "note": "Kopag+Madyang",
+    "created": 1751932800000
+  },
+  {
+    "id": "872e78cb-9e54-4015-8d34-cf5e5945bb2e",
+    "amount": 15000,
+    "cat": "Lainnya",
+    "date": "2025-07-08",
+    "method": "Lainnya",
+    "note": "Tombok Uang setoran",
+    "created": 1751932800000
+  },
+  {
+    "id": "4ce310c9-41e5-4a8a-a901-5ff126ff676e",
+    "amount": 25000,
+    "cat": "Transportasi",
+    "date": "2025-07-08",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1751932800000
+  },
+  {
+    "id": "6cae3dd3-80fb-47a5-a0fc-9eec29b8c8ef",
+    "amount": 80300,
+    "cat": "Belanja",
+    "date": "2025-07-08",
+    "method": "Lainnya",
+    "note": "Belanja Kebutuhan bulanan",
+    "created": 1751932800000
+  },
+  {
+    "id": "e316a681-e27b-4cbd-b150-d26add5ff193",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2025-07-09",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1752019200000
+  },
+  {
+    "id": "2bdd394e-9cbb-4eb5-a1d0-035d29ec0fa3",
+    "amount": 25000,
+    "cat": "Transportasi",
+    "date": "2025-07-11",
+    "method": "Lainnya",
+    "note": "Bensin Beat",
+    "created": 1752192000000
+  },
+  {
+    "id": "4470bf53-58c1-453f-8d52-4efac97324bd",
+    "amount": 94000,
+    "cat": "Transportasi",
+    "date": "2025-07-12",
+    "method": "Lainnya",
+    "note": "Ganti Kampas Kopling ,Oli,+Jasa",
+    "created": 1752278400000
+  },
+  {
+    "id": "1bab7419-2847-423d-81db-e258c38b10f1",
+    "amount": 28000,
+    "cat": "Kesehatan",
+    "date": "2025-07-12",
+    "method": "Lainnya",
+    "note": "Miconazol,Vit D hallowel, &Vit B kompleks",
+    "created": 1752278400000
+  },
+  {
+    "id": "daba9f01-6e4d-4758-a1ff-1d4efdebb269",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2025-07-13",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1752364800000
+  },
+  {
+    "id": "d32d7775-ddc0-49de-942c-b47c0dbca3ae",
+    "amount": 42000,
+    "cat": "Hiburan",
+    "date": "2025-07-13",
+    "method": "Lainnya",
+    "note": "Logistik",
+    "created": 1752364800000
+  },
+  {
+    "id": "486e59fe-4ce0-4398-bf90-66e79ffad22f",
+    "amount": 9500,
+    "cat": "Hiburan",
+    "date": "2025-07-13",
+    "method": "Lainnya",
+    "note": "Rental",
+    "created": 1752364800000
+  },
+  {
+    "id": "aa7ff793-b3b7-4708-959a-f7ae6c0b78e7",
+    "amount": 55000,
+    "cat": "Hiburan",
+    "date": "2025-07-13",
+    "method": "Lainnya",
+    "note": "Regristrasi Simaksi",
+    "created": 1752364800000
+  },
+  {
+    "id": "caec3176-6c07-493e-846d-fc61f4e7d9e0",
+    "amount": 40500,
+    "cat": "Makan",
+    "date": "2025-07-13",
+    "method": "Lainnya",
+    "note": "Makan",
+    "created": 1752364800000
+  },
+  {
+    "id": "01b99c2a-b522-418c-9315-62e5eaee3e53",
+    "amount": 169000,
+    "cat": "Lainnya",
+    "date": "2025-10-01",
+    "method": "Lainnya",
+    "note": "Bayar Wifi",
+    "created": 1759276800000
+  },
+  {
+    "id": "80626771-f237-4819-b1dd-3d7e74055dd7",
+    "amount": 2500,
+    "cat": "Tagihan",
+    "date": "2025-10-01",
+    "method": "Lainnya",
+    "note": "Admin Blu",
+    "created": 1759276800000
+  },
+  {
+    "id": "3eeee0ca-0cfd-4b1c-a402-0b46fa7636d6",
+    "amount": 101000,
+    "cat": "Tagihan",
+    "date": "2025-10-01",
+    "method": "Lainnya",
+    "note": "Bayar Paylater",
+    "created": 1759276800000
+  },
+  {
+    "id": "214201e0-5e2d-43c5-84f8-612798bea21d",
+    "amount": 25010,
+    "cat": "Lainnya",
+    "date": "2025-10-01",
+    "method": "Lainnya",
+    "note": "Beli Spion PCX",
+    "created": 1759276800000
+  },
+  {
+    "id": "288159ca-72b3-4048-afad-d7c8f699d43c",
+    "amount": 24000,
+    "cat": "Lainnya",
+    "date": "2025-10-01",
+    "method": "Lainnya",
+    "note": "Lego",
+    "created": 1759276800000
+  },
+  {
+    "id": "83fffb8e-1f85-4ea9-be14-1424613a6c9f",
+    "amount": 15500,
+    "cat": "Makan",
+    "date": "2025-10-01",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1759276800000
+  },
+  {
+    "id": "f4bf2755-0f9f-4187-a206-f7d2d105a27c",
+    "amount": 91200,
+    "cat": "Lainnya",
+    "date": "2025-10-01",
+    "method": "Lainnya",
+    "note": "Shampo,cond,FW",
+    "created": 1759276800000
+  },
+  {
+    "id": "50f86c34-e701-4557-9dd6-050f7415b9fa",
+    "amount": 9000,
+    "cat": "Makan",
+    "date": "2025-10-02",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1759363200000
+  },
+  {
+    "id": "d0fae0de-9dcc-4ed8-a5f6-da7b09de3eb4",
+    "amount": 33000,
+    "cat": "Makan",
+    "date": "2025-10-02",
+    "method": "Lainnya",
+    "note": "Madyang Steak",
+    "created": 1759363200000
+  },
+  {
+    "id": "b2849fae-2326-414f-b3cb-968e3e0ae547",
+    "amount": 10000,
+    "cat": "Transportasi",
+    "date": "2025-10-02",
+    "method": "Lainnya",
+    "note": "Parkir+Esteh",
+    "created": 1759363200000
+  },
+  {
+    "id": "542ef5c7-7426-44c7-9ff5-500d2c67b7a3",
+    "amount": 51500,
+    "cat": "Tagihan",
+    "date": "2025-10-02",
+    "method": "Lainnya",
+    "note": "Pulsa",
+    "created": 1759363200000
+  },
+  {
+    "id": "fca7d9dd-27d2-4422-aa7a-beceb1b6eaeb",
+    "amount": 87000,
+    "cat": "Transportasi",
+    "date": "2025-10-02",
+    "method": "Lainnya",
+    "note": "Bensin PCX",
+    "created": 1759363200000
+  },
+  {
+    "id": "b89cf2dc-7cce-4c69-b2cc-e4c145784721",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2025-10-03",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1759449600000
+  },
+  {
+    "id": "26515c15-6d24-4642-bf9b-9776d65ba3ba",
+    "amount": 15000,
+    "cat": "Kesehatan",
+    "date": "2025-10-03",
+    "method": "Lainnya",
+    "note": "Masker",
+    "created": 1759449600000
+  },
+  {
+    "id": "cba648af-b876-40c8-9904-8e53fcdc5737",
+    "amount": 8000,
+    "cat": "Makan",
+    "date": "2025-10-03",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1759449600000
+  },
+  {
+    "id": "411045d2-6d91-4c5f-8c32-eec41b8ab5c3",
+    "amount": 23000,
+    "cat": "Makan",
+    "date": "2025-10-03",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1759449600000
+  },
+  {
+    "id": "0f7114b6-ef08-4c98-9561-4295091e52ed",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2025-10-04",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1759536000000
+  },
+  {
+    "id": "9c3ab45d-c364-4f5c-a41e-e70054505a38",
+    "amount": 4000,
+    "cat": "Lainnya",
+    "date": "2025-10-04",
+    "method": "Lainnya",
+    "note": "Es Dawet",
+    "created": 1759536000000
+  },
+  {
+    "id": "48e46468-bddc-4c38-bd0e-8200c8df428d",
+    "amount": 46000,
+    "cat": "Transportasi",
+    "date": "2025-10-04",
+    "method": "Lainnya",
+    "note": "Oli Mesran 1L",
+    "created": 1759536000000
+  },
+  {
+    "id": "b0439ce0-5425-44d9-9642-df69fb0d5742",
+    "amount": 17000,
+    "cat": "Belanja",
+    "date": "2025-10-05",
+    "method": "Lainnya",
+    "note": "Bayar Shopee",
+    "created": 1759622400000
+  },
+  {
+    "id": "27f95374-156f-428f-bfeb-ded218ff5b72",
+    "amount": 35000,
+    "cat": "Lainnya",
+    "date": "2025-10-05",
+    "method": "Lainnya",
+    "note": "Lanyard VSLTR",
+    "created": 1759622400000
+  },
+  {
+    "id": "7393f1ed-37ac-4798-8e10-c1ac85d83114",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2025-10-06",
+    "method": "Lainnya",
+    "note": "Bensin PCX",
+    "created": 1759708800000
+  },
+  {
+    "id": "f6c9e70e-a43a-4bd8-b250-f8c9a620e361",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2025-10-06",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1759708800000
+  },
+  {
+    "id": "966a966b-2963-48ce-a22f-68b7d401a7ae",
+    "amount": 89500,
+    "cat": "Lainnya",
+    "date": "2025-10-06",
+    "method": "Lainnya",
+    "note": "Beras&Eskrim",
+    "created": 1759708800000
+  },
+  {
+    "id": "4786e1c8-21b6-4f77-bdaf-e0d0c59e6461",
+    "amount": 17500,
+    "cat": "Transportasi",
+    "date": "2025-10-06",
+    "method": "Lainnya",
+    "note": "Exofoliete N Pure",
+    "created": 1759708800000
+  },
+  {
+    "id": "e67fa3d8-3d1d-438d-bf6a-dfc2a5cb3426",
+    "amount": 72000,
+    "cat": "Lainnya",
+    "date": "2025-10-07",
+    "method": "Lainnya",
+    "note": "Bayar Tokped",
+    "created": 1759795200000
+  },
+  {
+    "id": "0fcf210c-2ca7-4d89-aff9-6185e932a7e5",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2025-10-07",
+    "method": "Lainnya",
+    "note": "Bensin Vixion",
+    "created": 1759795200000
+  },
+  {
+    "id": "66523449-a9e2-4343-8689-16abf9c7ee01",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2025-10-07",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1759795200000
+  },
+  {
+    "id": "b95cc149-273e-46c7-ac34-539e7b69e7bf",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2025-10-07",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1759795200000
+  },
+  {
+    "id": "8466ce56-bed8-4376-bd65-7502838c6588",
+    "amount": 5000,
+    "cat": "Lainnya",
+    "date": "2025-10-07",
+    "method": "Lainnya",
+    "note": "Tambah Angin",
+    "created": 1759795200000
+  },
+  {
+    "id": "da7d7df0-3309-4018-912b-226fc42ecef8",
+    "amount": 8000,
+    "cat": "Makan",
+    "date": "2025-10-08",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1759881600000
+  },
+  {
+    "id": "d98a421e-9b00-4bcd-a4b5-280975f5a5e0",
+    "amount": 7000,
+    "cat": "Makan",
+    "date": "2025-10-08",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1759881600000
+  },
+  {
+    "id": "3635cd93-8812-4416-8b12-8199af74ee6a",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2025-10-08",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1759881600000
+  },
+  {
+    "id": "c25923ae-a056-4974-8086-e7812b74e89a",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2025-10-08",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1759881600000
+  },
+  {
+    "id": "114bbf70-f22b-4579-8c6e-4baae82d1f1c",
+    "amount": 4000,
+    "cat": "Makan",
+    "date": "2025-10-08",
+    "method": "Lainnya",
+    "note": "Beng beng",
+    "created": 1759881600000
+  },
+  {
+    "id": "d31ac3a5-38df-44bd-8cfd-3dc67896a94a",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2025-10-09",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1759968000000
+  },
+  {
+    "id": "add90882-43ac-40ef-af3a-ca9453abf081",
+    "amount": 85000,
+    "cat": "Transportasi",
+    "date": "2025-10-09",
+    "method": "Lainnya",
+    "note": "Bensin PCX",
+    "created": 1759968000000
+  },
+  {
+    "id": "687a6256-f7c2-41e7-a681-b33e5695e1d0",
+    "amount": 8000,
+    "cat": "Makan",
+    "date": "2025-10-10",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1760054400000
+  },
+  {
+    "id": "49984dab-79cb-4904-be31-c9bb5f406a0a",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2025-10-10",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1760054400000
+  },
+  {
+    "id": "365611bb-6e4c-423c-8ed7-b59f487dae34",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2025-10-11",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1760140800000
+  },
+  {
+    "id": "d82f2aa8-b668-4eae-9695-decfebc575ad",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2025-10-11",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1760140800000
+  },
+  {
+    "id": "02c8142b-ba66-420f-b005-8852af968e98",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2025-10-11",
+    "method": "Lainnya",
+    "note": "Batagor",
+    "created": 1760140800000
+  },
+  {
+    "id": "4df01691-18e6-41de-a552-362f39b014ba",
+    "amount": 20000,
+    "cat": "Makan",
+    "date": "2025-12-01",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1764547200000
+  },
+  {
+    "id": "08aba1c0-ade3-4560-90db-615c3439faad",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2025-12-01",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1764547200000
+  },
+  {
+    "id": "a97eadd1-809b-4cf0-83fa-aabf02ed1a41",
+    "amount": 9000,
+    "cat": "Makan",
+    "date": "2025-12-02",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1764633600000
+  },
+  {
+    "id": "3fb7d8c0-7755-4e18-bf3d-1e041fc66480",
+    "amount": 45000,
+    "cat": "Tagihan",
+    "date": "2025-12-02",
+    "method": "Lainnya",
+    "note": "iCloud",
+    "created": 1764633600000
+  },
+  {
+    "id": "ef80953d-1d7b-44b7-87b7-3d95a47857ff",
+    "amount": 4000,
+    "cat": "Transportasi",
+    "date": "2025-12-03",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1764720000000
+  },
+  {
+    "id": "2d30523a-c2ca-4bf9-b455-18fe0c7dc5de",
+    "amount": 50000,
+    "cat": "Makan",
+    "date": "2025-12-03",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1764720000000
+  },
+  {
+    "id": "34795b33-8d06-4c8a-ae4b-543ec77e759e",
+    "amount": 80000,
+    "cat": "Transportasi",
+    "date": "2025-12-03",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1764720000000
+  },
+  {
+    "id": "87deadf9-8d6a-46a2-ba25-7eaf911343de",
+    "amount": 9000,
+    "cat": "Makan",
+    "date": "2025-12-05",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1764892800000
+  },
+  {
+    "id": "b6bc35e5-be67-4d22-8f8d-1071d97eca63",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2025-12-05",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1764892800000
+  },
+  {
+    "id": "fee14638-2edc-40e8-8c53-82bbbe2cef43",
+    "amount": 6000,
+    "cat": "Makan",
+    "date": "2025-12-05",
+    "method": "Lainnya",
+    "note": "Cookies",
+    "created": 1764892800000
+  },
+  {
+    "id": "f2d91861-8219-4375-9441-828b35ea58c7",
+    "amount": 7000,
+    "cat": "Makan",
+    "date": "2025-12-05",
+    "method": "Lainnya",
+    "note": "Mie",
+    "created": 1764892800000
+  },
+  {
+    "id": "8d9f00f1-b31c-41df-89f3-e599ef4091e5",
+    "amount": 51500,
+    "cat": "Tagihan",
+    "date": "2025-12-06",
+    "method": "Lainnya",
+    "note": "Pulsa",
+    "created": 1764979200000
+  },
+  {
+    "id": "0274e9ba-454e-49cb-8400-56efedff1370",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2025-12-06",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1764979200000
+  },
+  {
+    "id": "bfb9b798-ed34-4d65-9650-7ee38ec2a5d3",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2025-12-06",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1764979200000
+  },
+  {
+    "id": "6ffc3b31-b9ef-4eff-b235-54fd338b8cb8",
+    "amount": 7000,
+    "cat": "Makan",
+    "date": "2025-12-06",
+    "method": "Lainnya",
+    "note": "Mie",
+    "created": 1764979200000
+  },
+  {
+    "id": "d6250fac-ae10-4e0f-a3a4-0814512ee002",
+    "amount": 120000,
+    "cat": "Lainnya",
+    "date": "2025-12-07",
+    "method": "Lainnya",
+    "note": "Gift",
+    "created": 1765065600000
+  },
+  {
+    "id": "0b4b4d71-aeda-4b18-8476-3aaf443970b0",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2025-12-07",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1765065600000
+  },
+  {
+    "id": "956aa50d-588e-42d2-a90f-0ee818aea6c4",
+    "amount": 11000,
+    "cat": "Makan",
+    "date": "2025-12-08",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1765152000000
+  },
+  {
+    "id": "f69ca9e8-c2d5-4393-81bb-1f17b616edc0",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2025-12-08",
+    "method": "Lainnya",
+    "note": "Parkir + PO",
+    "created": 1765152000000
+  },
+  {
+    "id": "bcfda523-8988-4214-aa63-a23eb3aaa92e",
+    "amount": 30,
+    "cat": "Transportasi",
+    "date": "2025-12-08",
+    "method": "Lainnya",
+    "note": "Isi Nitrogen",
+    "created": 1765152000000
+  },
+  {
+    "id": "e8367309-e8d6-4fab-9a21-8017069a3a9c",
+    "amount": 1000,
+    "cat": "Lainnya",
+    "date": "2025-12-08",
+    "method": "Lainnya",
+    "note": "PO",
+    "created": 1765152000000
+  },
+  {
+    "id": "a1883fb1-f94e-47bb-b4fd-6b4c49f3fc76",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2025-12-08",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1765152000000
+  },
+  {
+    "id": "d0f7b38c-1244-4989-af86-9af29d65b24c",
+    "amount": 15000,
+    "cat": "Lainnya",
+    "date": "2025-12-08",
+    "method": "Lainnya",
+    "note": "Potong",
+    "created": 1765152000000
+  },
+  {
+    "id": "11cd63e0-fbbf-472b-ad67-dc3481a794aa",
+    "amount": 16000,
+    "cat": "Makan",
+    "date": "2025-12-08",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1765152000000
+  },
+  {
+    "id": "99a389d7-25f4-4df5-b0dc-25619eea0300",
+    "amount": 5000,
+    "cat": "Transportasi",
+    "date": "2025-12-08",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1765152000000
+  },
+  {
+    "id": "8586f87e-a7e0-436d-b9f4-79a4f2f3cc20",
+    "amount": 900,
+    "cat": "Transportasi",
+    "date": "2025-12-08",
+    "method": "Lainnya",
+    "note": "Bensin PCX",
+    "created": 1765152000000
+  },
+  {
+    "id": "ee0e6db1-a942-48e3-a6c8-50866f0043be",
+    "amount": 20000,
+    "cat": "Makan",
+    "date": "2025-12-09",
+    "method": "Lainnya",
+    "note": "Madyang Soto",
+    "created": 1765238400000
+  },
+  {
+    "id": "f2ca5887-9b87-4520-a87e-d98ccda9ebc4",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2025-12-09",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1765238400000
+  },
+  {
+    "id": "4336e8f8-2eeb-4ef8-ab1c-fe98c1b5bc0d",
+    "amount": 32600,
+    "cat": "Belanja",
+    "date": "2025-12-09",
+    "method": "Lainnya",
+    "note": "Shopeefood",
+    "created": 1765238400000
+  },
+  {
+    "id": "d7055147-a2a5-4955-8319-cc81881d0da7",
+    "amount": 6000,
+    "cat": "Transportasi",
+    "date": "2025-12-10",
+    "method": "Lainnya",
+    "note": "Ojek",
+    "created": 1765324800000
+  },
+  {
+    "id": "40899987-4aec-455a-9cb2-d5f83457ae9c",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2025-12-10",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1765324800000
+  },
+  {
+    "id": "995dc311-8217-4e42-a81a-68205596ddb6",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2025-12-11",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1765411200000
+  },
+  {
+    "id": "466f64ec-bd1b-4bc0-84e6-0985c79e961b",
+    "amount": 6000,
+    "cat": "Lainnya",
+    "date": "2025-12-11",
+    "method": "Lainnya",
+    "note": "Eskrim",
+    "created": 1765411200000
+  },
+  {
+    "id": "bef0401a-c0f9-421f-8e47-2209c4230a28",
+    "amount": 8500,
+    "cat": "Makan",
+    "date": "2025-12-11",
+    "method": "Lainnya",
+    "note": "Hydrococo",
+    "created": 1765411200000
+  },
+  {
+    "id": "6c268b67-170a-4d83-95e3-fdd530fb9848",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2025-12-11",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1765411200000
+  },
+  {
+    "id": "d982ec87-a6b8-4ed7-a607-59d368ac1a68",
+    "amount": 403000,
+    "cat": "Belanja",
+    "date": "2025-12-12",
+    "method": "Lainnya",
+    "note": "Jacket Markicabs",
+    "created": 1765497600000
+  },
+  {
+    "id": "258a4e75-91a2-46ba-9fc2-a7c2ca34dc6a",
+    "amount": 2500,
+    "cat": "Tagihan",
+    "date": "2025-12-12",
+    "method": "Lainnya",
+    "note": "Admin",
+    "created": 1765497600000
+  },
+  {
+    "id": "7e112669-85ef-4aa1-89f8-0f0e009c0a21",
+    "amount": 100000,
+    "cat": "Transportasi",
+    "date": "2025-12-12",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1765497600000
+  },
+  {
+    "id": "a302f5d4-88ce-4615-8dad-68c0b50796da",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2025-12-12",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1765497600000
+  },
+  {
+    "id": "bdbf6732-4211-44f4-89ca-5897df1a41ed",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2025-12-12",
+    "method": "Lainnya",
+    "note": "Nitrogen",
+    "created": 1765497600000
+  },
+  {
+    "id": "78338076-ff9d-4b9f-9af9-9f1b7a18bcdf",
+    "amount": 32000,
+    "cat": "Lainnya",
+    "date": "2025-12-12",
+    "method": "Lainnya",
+    "note": "Roko Sopir",
+    "created": 1765497600000
+  },
+  {
+    "id": "9c02fc92-fc1e-4ad5-b8c0-403bfaa2bd9c",
+    "amount": 4000,
+    "cat": "Makan",
+    "date": "2025-12-12",
+    "method": "Lainnya",
+    "note": "Es Kopi",
+    "created": 1765497600000
+  },
+  {
+    "id": "21feb5de-bfa8-485a-a660-55b7d78d3846",
+    "amount": 37000,
+    "cat": "Belanja",
+    "date": "2025-12-12",
+    "method": "Lainnya",
+    "note": "Top Up",
+    "created": 1765497600000
+  },
+  {
+    "id": "977a5367-e6ee-4023-8ff4-240ea3534859",
+    "amount": 34300,
+    "cat": "Makan",
+    "date": "2026-01-01",
+    "method": "Lainnya",
+    "note": "Martabak",
+    "created": 1767225600000
+  },
+  {
+    "id": "6053ad4d-0c8b-411b-a100-c1e3c6ebd9ce",
+    "amount": 7000,
+    "cat": "Makan",
+    "date": "2026-01-01",
+    "method": "Lainnya",
+    "note": "Mie",
+    "created": 1767225600000
+  },
+  {
+    "id": "5af61e62-77a0-48f4-8dc3-f65c12b653dd",
+    "amount": 5000,
+    "cat": "Tagihan",
+    "date": "2026-01-01",
+    "method": "Lainnya",
+    "note": "Admin",
+    "created": 1767225600000
+  },
+  {
+    "id": "c970ebd1-1192-4e36-b6b0-ff5709980242",
+    "amount": 14000,
+    "cat": "Makan",
+    "date": "2026-01-02",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1767312000000
+  },
+  {
+    "id": "a20ec832-66d4-4540-af4f-f5263bf16373",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2026-01-02",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1767312000000
+  },
+  {
+    "id": "2912c1d3-c604-4c6e-9d34-5fafce744bda",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2026-01-02",
+    "method": "Lainnya",
+    "note": "Jepe",
+    "created": 1767312000000
+  },
+  {
+    "id": "23a326de-bf11-45fd-b2a2-604842495f25",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-01-02",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1767312000000
+  },
+  {
+    "id": "b881a965-ff93-4f66-8517-991ebdfec113",
+    "amount": 167000,
+    "cat": "Belanja",
+    "date": "2026-01-02",
+    "method": "Lainnya",
+    "note": "CO Jeans",
+    "created": 1767312000000
+  },
+  {
+    "id": "9a45026d-56d5-467f-9499-2a699d059809",
+    "amount": 50000,
+    "cat": "Tagihan",
+    "date": "2026-01-03",
+    "method": "Lainnya",
+    "note": "iCloud",
+    "created": 1767398400000
+  },
+  {
+    "id": "377c5a94-2198-4d40-8f6e-03e3d89387aa",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2026-01-03",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1767398400000
+  },
+  {
+    "id": "b0a37e01-a330-47a9-aa5f-3b211c6d3894",
+    "amount": 165000,
+    "cat": "Belanja",
+    "date": "2026-01-03",
+    "method": "Lainnya",
+    "note": "Skincare",
+    "created": 1767398400000
+  },
+  {
+    "id": "8dde0ea2-8a4f-4b27-bea1-8a179a8e3e2d",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-01-03",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1767398400000
+  },
+  {
+    "id": "252e1a6c-bc8d-4460-aabb-257c4074db2f",
+    "amount": 166500,
+    "cat": "Lainnya",
+    "date": "2026-01-05",
+    "method": "Lainnya",
+    "note": "Bayar Wifi",
+    "created": 1767571200000
+  },
+  {
+    "id": "6971bde9-ce84-41e3-8c06-a498f49d5699",
+    "amount": 34000,
+    "cat": "Belanja",
+    "date": "2026-01-05",
+    "method": "Lainnya",
+    "note": "Shopee Food",
+    "created": 1767571200000
+  },
+  {
+    "id": "62bdb060-e33a-46f0-98d5-94c7ef572bb3",
+    "amount": 15000,
+    "cat": "Makan",
+    "date": "2026-01-06",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1767657600000
+  },
+  {
+    "id": "d6f7fb39-ae6e-49c7-8de2-05b19731fbfe",
+    "amount": 2500,
+    "cat": "Lainnya",
+    "date": "2026-01-06",
+    "method": "Lainnya",
+    "note": "Nestle",
+    "created": 1767657600000
+  },
+  {
+    "id": "54711dfe-f005-4a7c-a798-7d9179acec72",
+    "amount": 4000,
+    "cat": "Transportasi",
+    "date": "2026-01-06",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1767657600000
+  },
+  {
+    "id": "e557b39b-276c-4400-be50-e5bc654863bb",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2026-01-06",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1767657600000
+  },
+  {
+    "id": "db77e6d0-5bb1-4959-8244-4630fbb7a9dc",
+    "amount": 15000,
+    "cat": "Makan",
+    "date": "2026-01-06",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1767657600000
+  },
+  {
+    "id": "5071ed37-5d69-41a9-a70e-34479cb9df2f",
+    "amount": 7500,
+    "cat": "Makan",
+    "date": "2026-01-07",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1767744000000
+  },
+  {
+    "id": "e0d2eef0-5157-4e39-81ee-debaa204ca5b",
+    "amount": 65254,
+    "cat": "Lainnya",
+    "date": "2026-01-07",
+    "method": "Lainnya",
+    "note": "RunBelt",
+    "created": 1767744000000
+  },
+  {
+    "id": "dd40611f-ef3c-495a-942b-9db941ef525b",
+    "amount": 80,
+    "cat": "Lainnya",
+    "date": "2026-01-07",
+    "method": "Lainnya",
+    "note": "Pocari",
+    "created": 1767744000000
+  },
+  {
+    "id": "37fc09e9-d08d-4f18-98f4-9742fed28af2",
+    "amount": 15000,
+    "cat": "Makan",
+    "date": "2026-01-08",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1767830400000
+  },
+  {
+    "id": "46613ea7-659f-48b0-95f5-c5318df62af9",
+    "amount": 1500,
+    "cat": "Transportasi",
+    "date": "2026-01-08",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1767830400000
+  },
+  {
+    "id": "9b0b0d4e-b6fa-4e42-ac17-8594f8ba87e4",
+    "amount": 91000,
+    "cat": "Transportasi",
+    "date": "2026-01-08",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1767830400000
+  },
+  {
+    "id": "2f52ac66-37c5-427b-b856-819b08a5e389",
+    "amount": 9000,
+    "cat": "Lainnya",
+    "date": "2026-01-08",
+    "method": "Lainnya",
+    "note": "Jepe",
+    "created": 1767830400000
+  },
+  {
+    "id": "9fba76d7-f65c-4182-bf17-c6cc17992d24",
+    "amount": 190416,
+    "cat": "Tagihan",
+    "date": "2026-01-09",
+    "method": "Lainnya",
+    "note": "Paylater",
+    "created": 1767916800000
+  },
+  {
+    "id": "058bd51d-9a84-414f-94a2-d9d1afcaf1f1",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2026-01-09",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1767916800000
+  },
+  {
+    "id": "31da7d1c-7462-49f5-a534-30c798659b6e",
+    "amount": 2500,
+    "cat": "Tagihan",
+    "date": "2026-01-10",
+    "method": "Lainnya",
+    "note": "Admin",
+    "created": 1768003200000
+  },
+  {
+    "id": "fb0606bf-6c38-4b2e-ae9e-e0a90bc29398",
+    "amount": 110,
+    "cat": "Makan",
+    "date": "2026-01-10",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1768003200000
+  },
+  {
+    "id": "8b615af4-52a3-4915-bba3-657f9597f98b",
+    "amount": 14580,
+    "cat": "Tagihan",
+    "date": "2026-01-10",
+    "method": "Lainnya",
+    "note": "Pulsa",
+    "created": 1768003200000
+  },
+  {
+    "id": "2503ee7d-4b35-4b4e-92d4-d3dc3a22b446",
+    "amount": 8000,
+    "cat": "Lainnya",
+    "date": "2026-01-10",
+    "method": "Lainnya",
+    "note": "Pocari",
+    "created": 1768003200000
+  },
+  {
+    "id": "9d0376fc-6a1d-4103-b60c-e71ca6cd802a",
+    "amount": 17000,
+    "cat": "Lainnya",
+    "date": "2026-01-11",
+    "method": "Lainnya",
+    "note": "Angkring",
+    "created": 1768089600000
+  },
+  {
+    "id": "b7e36bdb-ca5f-4dfd-9c21-7d0cb070b11a",
+    "amount": 30000,
+    "cat": "Lainnya",
+    "date": "2026-01-11",
+    "method": "Lainnya",
+    "note": "Kentucky",
+    "created": 1768089600000
+  },
+  {
+    "id": "a0b5fe07-59b0-44ae-a101-fff08ff77c7e",
+    "amount": 25000,
+    "cat": "Lainnya",
+    "date": "2026-01-11",
+    "method": "Lainnya",
+    "note": "luran",
+    "created": 1768089600000
+  },
+  {
+    "id": "6795317f-c4ee-41e3-ac03-311d2b09c7a2",
+    "amount": 90000,
+    "cat": "Transportasi",
+    "date": "2026-01-12",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1768176000000
+  },
+  {
+    "id": "98f3850b-259a-43f6-ae39-059ef487fdc1",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2026-01-12",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1768176000000
+  },
+  {
+    "id": "dce71b36-4ff9-4f39-9f85-b187613835a7",
+    "amount": 35520,
+    "cat": "Lainnya",
+    "date": "2026-01-12",
+    "method": "Lainnya",
+    "note": "Face Wash",
+    "created": 1768176000000
+  },
+  {
+    "id": "8607f276-208e-4273-ae47-e8102caf3d99",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2026-01-13",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1768262400000
+  },
+  {
+    "id": "2ab347b0-c027-4d05-b35b-1bf7e1a6273d",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-01-14",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1768348800000
+  },
+  {
+    "id": "6cfc83db-75d2-46ed-89a0-ca2ddd27cb38",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2026-01-14",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1768348800000
+  },
+  {
+    "id": "2b0fe591-4c07-4cc0-8b92-d36a16405589",
+    "amount": 7000,
+    "cat": "Makan",
+    "date": "2026-01-14",
+    "method": "Lainnya",
+    "note": "Mie",
+    "created": 1768348800000
+  },
+  {
+    "id": "bd4a2ef1-2d76-4a1f-9962-7760535e5b53",
+    "amount": 18000,
+    "cat": "Makan",
+    "date": "2026-02-02",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1769990400000
+  },
+  {
+    "id": "b1663435-5578-44b7-8313-f819de47e1a4",
+    "amount": 168000,
+    "cat": "Lainnya",
+    "date": "2026-02-02",
+    "method": "Lainnya",
+    "note": "Silverqueen 1 Box",
+    "created": 1769990400000
+  },
+  {
+    "id": "64a32048-118b-4f95-916e-cb6a15ebae6e",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2026-02-02",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1769990400000
+  },
+  {
+    "id": "4f35b8d5-7350-496e-be61-c5a6bbde40b1",
+    "amount": 125000,
+    "cat": "Lainnya",
+    "date": "2026-02-02",
+    "method": "Lainnya",
+    "note": "Service",
+    "created": 1769990400000
+  },
+  {
+    "id": "216a1eb3-b2f9-45c7-8152-d6b658dcffab",
+    "amount": 6500,
+    "cat": "Lainnya",
+    "date": "2026-02-02",
+    "method": "Lainnya",
+    "note": "Steker",
+    "created": 1769990400000
+  },
+  {
+    "id": "e0d118bb-8655-4ea0-bcb7-0406cd7ebb1a",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2026-02-03",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1770076800000
+  },
+  {
+    "id": "22256d71-dc4c-461f-9098-465efb7c708a",
+    "amount": 90000,
+    "cat": "Transportasi",
+    "date": "2026-02-03",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1770076800000
+  },
+  {
+    "id": "b58d6c32-fe21-4791-80a6-1c99b437b217",
+    "amount": 9000,
+    "cat": "Makan",
+    "date": "2026-02-03",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1770076800000
+  },
+  {
+    "id": "77ee2b53-5f2c-43fd-9419-3705759372ae",
+    "amount": 356620,
+    "cat": "Lainnya",
+    "date": "2026-02-03",
+    "method": "Lainnya",
+    "note": "Silverqueen 2Box",
+    "created": 1770076800000
+  },
+  {
+    "id": "8ea2db7a-7578-40aa-8d7a-6a8b4ab76f9c",
+    "amount": 62000,
+    "cat": "Makan",
+    "date": "2026-02-03",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1770076800000
+  },
+  {
+    "id": "e8c1c0ae-6d5f-4fa6-ba17-88332d4db2a0",
+    "amount": 50000,
+    "cat": "Tagihan",
+    "date": "2026-02-04",
+    "method": "Lainnya",
+    "note": "Bayar Icloud",
+    "created": 1770163200000
+  },
+  {
+    "id": "3a50829e-c52d-477b-b770-556343b1a728",
+    "amount": 5500,
+    "cat": "Lainnya",
+    "date": "2026-02-04",
+    "method": "Lainnya",
+    "note": "Bando",
+    "created": 1770163200000
+  },
+  {
+    "id": "7447227a-c02b-4338-91af-120cf309db2f",
+    "amount": 51000,
+    "cat": "Lainnya",
+    "date": "2026-02-04",
+    "method": "Lainnya",
+    "note": "Ngopi",
+    "created": 1770163200000
+  },
+  {
+    "id": "2848e18c-ba4c-40d7-a21d-007054f63d6c",
+    "amount": 15000,
+    "cat": "Makan",
+    "date": "2026-02-05",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1770249600000
+  },
+  {
+    "id": "1c340d5a-5339-4fb2-8ada-ecb8c3e6efe7",
+    "amount": 94000,
+    "cat": "Transportasi",
+    "date": "2026-02-05",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1770249600000
+  },
+  {
+    "id": "0fe46866-be13-4519-ad74-d6524a0cc08c",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-02-05",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1770249600000
+  },
+  {
+    "id": "0e73c0fd-6da1-4a8e-96a2-c1052a7188eb",
+    "amount": 24500,
+    "cat": "Lainnya",
+    "date": "2026-02-05",
+    "method": "Lainnya",
+    "note": "Shampo",
+    "created": 1770249600000
+  },
+  {
+    "id": "2224576c-3914-4a8c-ae89-7bc302d4ce69",
+    "amount": 141000,
+    "cat": "Lainnya",
+    "date": "2026-02-05",
+    "method": "Lainnya",
+    "note": "Kirian",
+    "created": 1770249600000
+  },
+  {
+    "id": "5035cf5a-1c91-461e-88a5-cdf8b21de789",
+    "amount": 25000,
+    "cat": "Lainnya",
+    "date": "2026-02-05",
+    "method": "Lainnya",
+    "note": "Jasa",
+    "created": 1770249600000
+  },
+  {
+    "id": "78b5df12-8ab8-4d0a-9608-e7d02914e003",
+    "amount": 166500,
+    "cat": "Lainnya",
+    "date": "2026-02-05",
+    "method": "Lainnya",
+    "note": "Bayar Wifi",
+    "created": 1770249600000
+  },
+  {
+    "id": "58fd1e18-045a-4881-b09d-896c09ad7f4c",
+    "amount": 1502500,
+    "cat": "Lainnya",
+    "date": "2026-02-05",
+    "method": "Lainnya",
+    "note": "Cicilan",
+    "created": 1770249600000
+  },
+  {
+    "id": "f65528ae-b691-42c4-8c29-de84592fa2b7",
+    "amount": 4000,
+    "cat": "Transportasi",
+    "date": "2026-02-06",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1770336000000
+  },
+  {
+    "id": "11a46c2a-b560-4260-a30a-2fa0ebd05d45",
+    "amount": 15000,
+    "cat": "Lainnya",
+    "date": "2026-02-06",
+    "method": "Lainnya",
+    "note": "Bakwan Kawi",
+    "created": 1770336000000
+  },
+  {
+    "id": "3e58adcb-8b66-4cd6-b287-ff3caffae212",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2026-02-07",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1770422400000
+  },
+  {
+    "id": "a64a09ac-6137-4df4-9766-e71a6de65d8b",
+    "amount": 15000,
+    "cat": "Makan",
+    "date": "2026-02-07",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1770422400000
+  },
+  {
+    "id": "a1fe01c4-9d84-4ee9-9da1-da0fe12e81b3",
+    "amount": 29000,
+    "cat": "Makan",
+    "date": "2026-02-07",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1770422400000
+  },
+  {
+    "id": "08b338b2-17df-486b-a3b9-93d066ff25a5",
+    "amount": 51500,
+    "cat": "Tagihan",
+    "date": "2026-02-08",
+    "method": "Lainnya",
+    "note": "Pulsa",
+    "created": 1770508800000
+  },
+  {
+    "id": "9ae6efd4-c06a-4c02-b183-d3d889c82bc6",
+    "amount": 6000,
+    "cat": "Lainnya",
+    "date": "2026-02-08",
+    "method": "Lainnya",
+    "note": "Sabun Motor",
+    "created": 1770508800000
+  },
+  {
+    "id": "f8951aa7-47c9-4ea1-b57d-ad9892d4b560",
+    "amount": 85000,
+    "cat": "Transportasi",
+    "date": "2026-02-08",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1770508800000
+  },
+  {
+    "id": "a9f9596f-c700-4c0a-bc0f-f9ad964d6754",
+    "amount": 420000,
+    "cat": "Lainnya",
+    "date": "2026-02-08",
+    "method": "Lainnya",
+    "note": "Ganti LCD",
+    "created": 1770508800000
+  },
+  {
+    "id": "deba1776-c147-4fe8-a786-7fdc2ad4fd41",
+    "amount": 89500,
+    "cat": "Lainnya",
+    "date": "2026-02-08",
+    "method": "Lainnya",
+    "note": "Date",
+    "created": 1770508800000
+  },
+  {
+    "id": "468cb5f7-fb6e-48d6-b557-01fe80384faf",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-02-08",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1770508800000
+  },
+  {
+    "id": "5fde650a-5a14-43ff-87dd-0fca7c1a6440",
+    "amount": 14000,
+    "cat": "Makan",
+    "date": "2026-02-10",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1770681600000
+  },
+  {
+    "id": "9e5a9061-6c0e-48e0-b153-f34afb8dd9ff",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2026-02-10",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1770681600000
+  },
+  {
+    "id": "8ec3fa8c-3ce6-4f74-a54d-a5ce825f7e29",
+    "amount": 91500,
+    "cat": "Transportasi",
+    "date": "2026-02-10",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1770681600000
+  },
+  {
+    "id": "c42b9265-80b9-42cc-b259-168521eb0332",
+    "amount": 5000,
+    "cat": "Lainnya",
+    "date": "2026-02-10",
+    "method": "Lainnya",
+    "note": "Bakwan",
+    "created": 1770681600000
+  },
+  {
+    "id": "e9c290af-caeb-4ba4-b604-124bb4b694f0",
+    "amount": 10000,
+    "cat": "Kesehatan",
+    "date": "2026-02-11",
+    "method": "Lainnya",
+    "note": "Masker",
+    "created": 1770768000000
+  },
+  {
+    "id": "729c2581-7619-4a7a-8d59-0c04bc7d0570",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2026-02-12",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1770854400000
+  },
+  {
+    "id": "96895028-5f68-4c02-9361-82cca1adf35f",
+    "amount": 14000,
+    "cat": "Lainnya",
+    "date": "2026-02-12",
+    "method": "Lainnya",
+    "note": "Bayar",
+    "created": 1770854400000
+  },
+  {
+    "id": "05b43d43-b138-45cd-bb69-edaf59507662",
+    "amount": 87000,
+    "cat": "Transportasi",
+    "date": "2026-02-13",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1770940800000
+  },
+  {
+    "id": "9e919641-9312-42ac-a2c6-fa972c2367b9",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-02-13",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1770940800000
+  },
+  {
+    "id": "d88416ea-76a2-45e2-b3ba-3bebdc571757",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2026-02-13",
+    "method": "Lainnya",
+    "note": "Iuran",
+    "created": 1770940800000
+  },
+  {
+    "id": "5d8edbf3-a46b-484c-b9e8-a7b4a797b274",
+    "amount": 54500,
+    "cat": "Belanja",
+    "date": "2026-02-14",
+    "method": "Lainnya",
+    "note": "Parfum Depdorant",
+    "created": 1771027200000
+  },
+  {
+    "id": "f55cb040-52ad-4325-89c7-7c2eafd73665",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-02-14",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1771027200000
+  },
+  {
+    "id": "d1eb8035-fa26-45ff-ab34-b6e2926da397",
+    "amount": 14000,
+    "cat": "Makan",
+    "date": "2026-02-14",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1771027200000
+  },
+  {
+    "id": "4745cef8-9cdf-4cbc-9c7b-5b969af90d77",
+    "amount": 11000,
+    "cat": "Makan",
+    "date": "2026-04-01",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1775001600000
+  },
+  {
+    "id": "ea091f79-ceeb-41d5-84cf-f93efae8c206",
+    "amount": 4000,
+    "cat": "Transportasi",
+    "date": "2026-04-01",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1775001600000
+  },
+  {
+    "id": "dff0cc03-2d90-4ff6-918c-aed468f66e6e",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2026-04-01",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1775001600000
+  },
+  {
+    "id": "4427201f-03ce-4fef-8103-a1ab607903ca",
+    "amount": 4000,
+    "cat": "Makan",
+    "date": "2026-04-01",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1775001600000
+  },
+  {
+    "id": "eb7ed317-b698-4f50-8103-cd42f907603a",
+    "amount": 90000,
+    "cat": "Belanja",
+    "date": "2026-04-01",
+    "method": "Lainnya",
+    "note": "Shopee",
+    "created": 1775001600000
+  },
+  {
+    "id": "5095775b-620b-46cd-bd22-d1daf6c1247d",
+    "amount": 4000,
+    "cat": "Transportasi",
+    "date": "2026-04-02",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1775088000000
+  },
+  {
+    "id": "2c925389-c5f5-4fdc-b9ef-cc9e99eb5ae3",
+    "amount": 1500000,
+    "cat": "Lainnya",
+    "date": "2026-04-02",
+    "method": "Lainnya",
+    "note": "Angsuran",
+    "created": 1775088000000
+  },
+  {
+    "id": "eb63fa7a-cbd0-46f2-b707-ac37b1870618",
+    "amount": 166500,
+    "cat": "Lainnya",
+    "date": "2026-04-02",
+    "method": "Lainnya",
+    "note": "Wifi",
+    "created": 1775088000000
+  },
+  {
+    "id": "3916e357-c6ae-4749-a227-2ee0f6dac0ff",
+    "amount": 49000,
+    "cat": "Tagihan",
+    "date": "2026-04-02",
+    "method": "Lainnya",
+    "note": "iCloud",
+    "created": 1775088000000
+  },
+  {
+    "id": "f93e8b24-9930-44ba-85fa-90b71c58f3b8",
+    "amount": 20500,
+    "cat": "Makan",
+    "date": "2026-04-02",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1775088000000
+  },
+  {
+    "id": "608eabef-052c-4bb9-9c6b-1e907c681112",
+    "amount": 54000,
+    "cat": "Makan",
+    "date": "2026-04-03",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1775174400000
+  },
+  {
+    "id": "634dcca8-b670-4a22-baad-8828b8a11d1d",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2026-04-03",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1775174400000
+  },
+  {
+    "id": "7f4b527f-4889-4495-9de3-916d3de4e3c5",
+    "amount": 11000,
+    "cat": "Makan",
+    "date": "2026-04-04",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1775260800000
+  },
+  {
+    "id": "30df7108-28ec-4435-88fc-46e5cb0e718e",
+    "amount": 12000,
+    "cat": "Makan",
+    "date": "2026-04-06",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1775433600000
+  },
+  {
+    "id": "4cc02c83-ec5f-447a-90e2-1b4143375df3",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2026-04-06",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1775433600000
+  },
+  {
+    "id": "02ba2147-ce74-4140-84de-4b5b1ad75a59",
+    "amount": 2500,
+    "cat": "Transportasi",
+    "date": "2026-04-06",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1775433600000
+  },
+  {
+    "id": "910b058a-d38d-4dec-a67e-0ef24656538c",
+    "amount": 12000,
+    "cat": "Makan",
+    "date": "2026-04-07",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1775520000000
+  },
+  {
+    "id": "f8b6c403-5966-4a45-9805-1dca02ee3bdb",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2026-04-07",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1775520000000
+  },
+  {
+    "id": "6e1f6d5b-629f-41a7-b5c9-f3a4b88c70d8",
+    "amount": 30000,
+    "cat": "Lainnya",
+    "date": "2026-04-07",
+    "method": "Lainnya",
+    "note": "Nasgor",
+    "created": 1775520000000
+  },
+  {
+    "id": "c34dc81d-6456-4110-bc98-0446e6656645",
+    "amount": 48000,
+    "cat": "Makan",
+    "date": "2026-04-07",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1775520000000
+  },
+  {
+    "id": "f7dad6c1-2d65-444c-9075-bdd1f552a95b",
+    "amount": 1400,
+    "cat": "Makan",
+    "date": "2026-04-09",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1775692800000
+  },
+  {
+    "id": "bfb2d544-9c5d-4e5e-a5d0-6a99e626c043",
+    "amount": 6000,
+    "cat": "Transportasi",
+    "date": "2026-04-09",
+    "method": "Lainnya",
+    "note": "Parkir+PO",
+    "created": 1775692800000
+  },
+  {
+    "id": "66b5d132-1bcf-4ee3-b3a7-f88f69530b6e",
+    "amount": 8000,
+    "cat": "Lainnya",
+    "date": "2026-04-09",
+    "method": "Lainnya",
+    "note": "Teh",
+    "created": 1775692800000
+  },
+  {
+    "id": "8782d712-512f-4334-be7b-389c9c4318ba",
+    "amount": 18000,
+    "cat": "Lainnya",
+    "date": "2026-04-09",
+    "method": "Lainnya",
+    "note": "Potong Rambut",
+    "created": 1775692800000
+  },
+  {
+    "id": "25d1a5e1-1743-405b-ac37-b554ee6eaba3",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2026-04-09",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1775692800000
+  },
+  {
+    "id": "8085f878-7981-4711-96a8-2a0f456545c8",
+    "amount": 11000,
+    "cat": "Makan",
+    "date": "2026-04-10",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1775779200000
+  },
+  {
+    "id": "e7e9222e-8820-4b34-8066-d894bf76a7df",
+    "amount": 4000,
+    "cat": "Transportasi",
+    "date": "2026-04-10",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1775779200000
+  },
+  {
+    "id": "d6766561-6356-4533-90fe-31ed14e9bdc3",
+    "amount": 20500,
+    "cat": "Makan",
+    "date": "2026-04-10",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1775779200000
+  },
+  {
+    "id": "d8d9e948-64a4-4354-8ed4-9e61e294972b",
+    "amount": 16000,
+    "cat": "Makan",
+    "date": "2026-04-10",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1775779200000
+  },
+  {
+    "id": "5dc93662-d99d-4a96-9edb-3afd708aee34",
+    "amount": 100000,
+    "cat": "Lainnya",
+    "date": "2026-04-11",
+    "method": "Lainnya",
+    "note": "Gacoan",
+    "created": 1775865600000
+  },
+  {
+    "id": "1978cac8-f023-4db9-9819-d59589e50e80",
+    "amount": 94000,
+    "cat": "Transportasi",
+    "date": "2026-04-13",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1776038400000
+  },
+  {
+    "id": "c403f69e-d4d0-42d3-8a62-448ce7377074",
+    "amount": 19000,
+    "cat": "Makan",
+    "date": "2026-04-13",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1776038400000
+  },
+  {
+    "id": "29677468-e916-4a1c-a831-26b3990bacfd",
+    "amount": 3500,
+    "cat": "Transportasi",
+    "date": "2026-04-13",
+    "method": "Lainnya",
+    "note": "Parkir+PO",
+    "created": 1776038400000
+  },
+  {
+    "id": "a3a363d9-c9c6-4687-8770-dc83a3f931c0",
+    "amount": 10000,
+    "cat": "Transportasi",
+    "date": "2026-04-13",
+    "method": "Lainnya",
+    "note": "Ojek",
+    "created": 1776038400000
+  },
+  {
+    "id": "3aa00606-0fba-41c2-9a6f-085391f514a0",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2026-04-13",
+    "method": "Lainnya",
+    "note": "Bakso",
+    "created": 1776038400000
+  },
+  {
+    "id": "e523b3cc-4667-4d3b-8e47-992cf46bcffb",
+    "amount": 9000,
+    "cat": "Makan",
+    "date": "2026-04-14",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1776124800000
+  },
+  {
+    "id": "8961f282-930f-4b25-bf79-718b47cc01ff",
+    "amount": 5000,
+    "cat": "Transportasi",
+    "date": "2026-04-14",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1776124800000
+  },
+  {
+    "id": "7aa51704-9b0d-4fc6-9679-c2733f64386f",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2026-04-15",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1776211200000
+  },
+  {
+    "id": "c2bc79b7-4d95-4f7c-bba8-4358ff12de22",
+    "amount": 6000,
+    "cat": "Transportasi",
+    "date": "2026-04-15",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1776211200000
+  },
+  {
+    "id": "27c47a51-50f4-41c0-bc13-b49b84a2c9b4",
+    "amount": 25500,
+    "cat": "Makan",
+    "date": "2026-04-15",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1776211200000
+  },
+  {
+    "id": "c063cdf0-f1ac-45e6-94bc-a01e5ef02f33",
+    "amount": 25000,
+    "cat": "Lainnya",
+    "date": "2026-04-15",
+    "method": "Lainnya",
+    "note": "Bayar",
+    "created": 1776211200000
+  },
+  {
+    "id": "d3c9e21b-4e02-4d46-ada8-8ed27e23f7fa",
+    "amount": 23000,
+    "cat": "Makan",
+    "date": "2026-04-15",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1776211200000
+  },
+  {
+    "id": "33d9e723-9ce8-4694-9bc0-36daf9217817",
+    "amount": 92500,
+    "cat": "Transportasi",
+    "date": "2026-04-15",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1776211200000
+  },
+  {
+    "id": "e941920d-68d3-4deb-86fe-d49b1f96aed8",
+    "amount": 30000,
+    "cat": "Lainnya",
+    "date": "2026-05-01",
+    "method": "Lainnya",
+    "note": "Kentucky",
+    "created": 1777593600000
+  },
+  {
+    "id": "1a857868-f57c-4e05-aa7a-d419ed2491af",
+    "amount": 16560,
+    "cat": "Lainnya",
+    "date": "2026-05-02",
+    "method": "Lainnya",
+    "note": "Bandana",
+    "created": 1777680000000
+  },
+  {
+    "id": "e1686b85-e18c-4cec-8d23-ec18f1a8304c",
+    "amount": 51000,
+    "cat": "Tagihan",
+    "date": "2026-05-02",
+    "method": "Lainnya",
+    "note": "iCloud",
+    "created": 1777680000000
+  },
+  {
+    "id": "e37be329-76bd-494b-af8e-39e6772e2969",
+    "amount": 12000,
+    "cat": "Makan",
+    "date": "2026-05-02",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1777680000000
+  },
+  {
+    "id": "faad483d-162b-4dfc-b812-5b14a476343a",
+    "amount": 16000,
+    "cat": "Kesehatan",
+    "date": "2026-05-02",
+    "method": "Lainnya",
+    "note": "Masker",
+    "created": 1777680000000
+  },
+  {
+    "id": "6b9772bc-7014-4871-8b6d-b4a9883d9133",
+    "amount": 11000,
+    "cat": "Makan",
+    "date": "2026-05-02",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1777680000000
+  },
+  {
+    "id": "e7ae251a-90f3-4a9c-9cf0-39b44a5b5f37",
+    "amount": 50000,
+    "cat": "Lainnya",
+    "date": "2026-05-02",
+    "method": "Lainnya",
+    "note": "luran",
+    "created": 1777680000000
+  },
+  {
+    "id": "48a8a5e2-e952-4778-9d3c-18a8156994c4",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2026-05-03",
+    "method": "Lainnya",
+    "note": "Gorengan",
+    "created": 1777766400000
+  },
+  {
+    "id": "8825100a-27bd-4622-b7a3-102833493e25",
+    "amount": 36500,
+    "cat": "Makan",
+    "date": "2026-05-03",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1777766400000
+  },
+  {
+    "id": "9f50bd51-917d-4bcb-9028-dc9f613cafb9",
+    "amount": 10000,
+    "cat": "Transportasi",
+    "date": "2026-05-03",
+    "method": "Lainnya",
+    "note": "Ojek",
+    "created": 1777766400000
+  },
+  {
+    "id": "1c68f17d-cef9-4ed0-a4ce-3d471078e67f",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2026-05-04",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1777852800000
+  },
+  {
+    "id": "d53367c5-e11a-4d5a-8a2a-6adc4eae427b",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-05-04",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1777852800000
+  },
+  {
+    "id": "3537a687-650d-41ba-b2e9-3e92e921ee8b",
+    "amount": 11000,
+    "cat": "Makan",
+    "date": "2026-05-04",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1777852800000
+  },
+  {
+    "id": "c0cdb204-d296-4cf9-bd22-8d0e81782e7d",
+    "amount": 6000,
+    "cat": "Lainnya",
+    "date": "2026-05-04",
+    "method": "Lainnya",
+    "note": "Bansos",
+    "created": 1777852800000
+  },
+  {
+    "id": "fda4eaa8-7bc3-49bd-afd2-6bc2ee8b0ecb",
+    "amount": 2500,
+    "cat": "Tagihan",
+    "date": "2026-05-04",
+    "method": "Lainnya",
+    "note": "Admin",
+    "created": 1777852800000
+  },
+  {
+    "id": "dfa15617-dba5-403d-ac59-c737d363f5c7",
+    "amount": 9000,
+    "cat": "Makan",
+    "date": "2026-05-05",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1777939200000
+  },
+  {
+    "id": "de2f3bed-7166-4932-917a-74acf7461644",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2026-05-05",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1777939200000
+  },
+  {
+    "id": "b181071f-32e6-463b-81e9-c2a173dc4007",
+    "amount": 50000,
+    "cat": "Transportasi",
+    "date": "2026-05-05",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1777939200000
+  },
+  {
+    "id": "2173a92b-d2a8-4e3f-beb6-fef9ac134995",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2026-05-06",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1778025600000
+  },
+  {
+    "id": "380ea0b6-3406-4d90-9ddc-ec7241a9c98b",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-05-06",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1778025600000
+  },
+  {
+    "id": "4dfca660-d5e7-46e6-8587-858b8600ad43",
+    "amount": 5000,
+    "cat": "Transportasi",
+    "date": "2026-05-06",
+    "method": "Lainnya",
+    "note": "Ojek",
+    "created": 1778025600000
+  },
+  {
+    "id": "d53cfd9a-23e5-4d9f-9845-cdc9d6191494",
+    "amount": 169000,
+    "cat": "Lainnya",
+    "date": "2026-05-06",
+    "method": "Lainnya",
+    "note": "Wifi",
+    "created": 1778025600000
+  },
+  {
+    "id": "4841720a-4f57-4244-9cbc-5ec9980eca14",
+    "amount": 2500,
+    "cat": "Tagihan",
+    "date": "2026-05-06",
+    "method": "Lainnya",
+    "note": "Admin",
+    "created": 1778025600000
+  },
+  {
+    "id": "d54f28f6-fcc3-4ce0-a3e7-34d89d4e8571",
+    "amount": 38000,
+    "cat": "Lainnya",
+    "date": "2026-05-06",
+    "method": "Lainnya",
+    "note": "Ngopi",
+    "created": 1778025600000
+  },
+  {
+    "id": "f533c08a-85db-4ca7-a015-d846fb2e1b11",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2026-05-07",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1778112000000
+  },
+  {
+    "id": "91538c23-255d-4cfc-9d34-2a57d6fb3bfb",
+    "amount": 500000,
+    "cat": "Lainnya",
+    "date": "2026-05-07",
+    "method": "Lainnya",
+    "note": "Angsuran",
+    "created": 1778112000000
+  },
+  {
+    "id": "ae29176c-4050-4e68-8245-c5288055426c",
+    "amount": 74800,
+    "cat": "Lainnya",
+    "date": "2026-05-07",
+    "method": "Lainnya",
+    "note": "Jersey",
+    "created": 1778112000000
+  },
+  {
+    "id": "4a5a4b3b-883d-49d5-b03e-5d74650a965a",
+    "amount": 92000,
+    "cat": "Transportasi",
+    "date": "2026-05-07",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1778112000000
+  },
+  {
+    "id": "48ad612f-bef8-48c1-acc4-3ad6bf6634df",
+    "amount": 65000,
+    "cat": "Belanja",
+    "date": "2026-05-07",
+    "method": "Lainnya",
+    "note": "PDH",
+    "created": 1778112000000
+  },
+  {
+    "id": "e315db89-e84d-4e39-a4d4-4a33bb09f9a3",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-05-07",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1778112000000
+  },
+  {
+    "id": "ec9053e8-8d16-4b33-92f4-6f0994bccdaf",
+    "amount": 71500,
+    "cat": "Tagihan",
+    "date": "2026-05-08",
+    "method": "Lainnya",
+    "note": "Pulsa",
+    "created": 1778198400000
+  },
+  {
+    "id": "20a6c9ba-9d3f-4b41-aeca-2fb9285d0a98",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2026-05-08",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1778198400000
+  },
+  {
+    "id": "4006076b-ea75-4af3-94b7-1ec967039642",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2026-05-08",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1778198400000
+  },
+  {
+    "id": "d1cae8a4-4e00-4095-8ee9-ebe8be13eef0",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2026-05-09",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1778284800000
+  },
+  {
+    "id": "7ad48faf-4f06-403f-b92c-8051ad16249e",
+    "amount": 41000,
+    "cat": "Makan",
+    "date": "2026-05-09",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1778284800000
+  },
+  {
+    "id": "d11f0c46-9184-471e-94c4-506d33f46474",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-05-09",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1778284800000
+  },
+  {
+    "id": "992afec0-9328-4fff-96b4-a4f327689463",
+    "amount": 320000,
+    "cat": "Lainnya",
+    "date": "2026-05-09",
+    "method": "Lainnya",
+    "note": "Service",
+    "created": 1778284800000
+  },
+  {
+    "id": "3a464242-1596-4721-99bd-4f99f46992d3",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2026-05-09",
+    "method": "Lainnya",
+    "note": "Cuci",
+    "created": 1778284800000
+  },
+  {
+    "id": "5eb1c360-c53f-4bae-a8a5-08993bc07a7e",
+    "amount": 15000,
+    "cat": "Makan",
+    "date": "2026-05-10",
+    "method": "Lainnya",
+    "note": "Soto",
+    "created": 1778371200000
+  },
+  {
+    "id": "79325002-2855-4bba-89c3-aee4f0cd7998",
+    "amount": 30000,
+    "cat": "Hiburan",
+    "date": "2026-05-10",
+    "method": "Lainnya",
+    "note": "Simaksi",
+    "created": 1778371200000
+  },
+  {
+    "id": "6d6e88ab-2e07-4028-9357-2541a54745fb",
+    "amount": 21000,
+    "cat": "Makan",
+    "date": "2026-05-10",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1778371200000
+  },
+  {
+    "id": "b7db9f97-85d9-449b-bb53-bcc174bda538",
+    "amount": 31250,
+    "cat": "Hiburan",
+    "date": "2026-05-10",
+    "method": "Lainnya",
+    "note": "Logistik",
+    "created": 1778371200000
+  },
+  {
+    "id": "fe2bb18a-6405-42e0-a152-01b62d496b8c",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2026-05-11",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1778457600000
+  },
+  {
+    "id": "b6e4e8d3-df0d-46b2-9b72-7fca9e1e36aa",
+    "amount": 2500,
+    "cat": "Transportasi",
+    "date": "2026-05-11",
+    "method": "Lainnya",
+    "note": "Parkir+PO",
+    "created": 1778457600000
+  },
+  {
+    "id": "15144765-eae5-4b5d-a70a-09bdaa4bf06c",
+    "amount": 11500,
+    "cat": "Lainnya",
+    "date": "2026-05-11",
+    "method": "Lainnya",
+    "note": "Nutup",
+    "created": 1778457600000
+  },
+  {
+    "id": "560e5e54-6e2c-4645-9522-43b501750bf9",
+    "amount": 46040,
+    "cat": "Belanja",
+    "date": "2026-06-01",
+    "method": "Lainnya",
+    "note": "Shopee",
+    "created": 1780272000000
+  },
+  {
+    "id": "7abe91a9-4adf-48d2-a7ae-f8b00a17ca8e",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2026-06-02",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1780358400000
+  },
+  {
+    "id": "5e645a2b-c991-4269-9fbb-1c7dd51e7a82",
+    "amount": 50000,
+    "cat": "Tagihan",
+    "date": "2026-06-02",
+    "method": "Lainnya",
+    "note": "iCloud",
+    "created": 1780358400000
+  },
+  {
+    "id": "b2decfc8-7693-438d-96f8-07d3c431b618",
+    "amount": 40000,
+    "cat": "Lainnya",
+    "date": "2026-06-02",
+    "method": "Lainnya",
+    "note": "Lawuh",
+    "created": 1780358400000
+  },
+  {
+    "id": "c91ed5e6-f1f7-4ac8-bdc7-5aaf3c7d9493",
+    "amount": 100,
+    "cat": "Makan",
+    "date": "2026-06-03",
+    "method": "Lainnya",
+    "note": "Nyarap",
+    "created": 1780444800000
+  },
+  {
+    "id": "673a7214-20bd-4a90-bf4e-ca90aca7656f",
+    "amount": 2000,
+    "cat": "Lainnya",
+    "date": "2026-06-03",
+    "method": "Lainnya",
+    "note": "[tanpa keterangan]",
+    "created": 1780444800000
+  },
+  {
+    "id": "2f6fab8c-93d5-4e86-8112-7d9864c7d3e1",
+    "amount": 97000,
+    "cat": "Transportasi",
+    "date": "2026-06-03",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1780444800000
+  },
+  {
+    "id": "2c709943-3b28-445e-9f9e-c23591d22ca2",
+    "amount": 5000,
+    "cat": "Transportasi",
+    "date": "2026-06-04",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1780531200000
+  },
+  {
+    "id": "329ab7aa-572a-486a-95ad-e0503e2952fd",
+    "amount": 12000,
+    "cat": "Lainnya",
+    "date": "2026-06-04",
+    "method": "Lainnya",
+    "note": "FC Materai",
+    "created": 1780531200000
+  },
+  {
+    "id": "daf85a4d-4eeb-49ea-b751-a4d5803eab79",
+    "amount": 12000,
+    "cat": "Makan",
+    "date": "2026-06-05",
+    "method": "Lainnya",
+    "note": "Nyarap",
+    "created": 1780617600000
+  },
+  {
+    "id": "cbed0ef8-5e5a-4201-bb0e-ce6054dfb82b",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-06-05",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1780617600000
+  },
+  {
+    "id": "899ae7bf-0989-4919-93ed-767c7b32b010",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-06-05",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1780617600000
+  },
+  {
+    "id": "b73da99f-de46-48c0-8a84-d9c25000f6c6",
+    "amount": 20000,
+    "cat": "Makan",
+    "date": "2026-06-05",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1780617600000
+  },
+  {
+    "id": "5f162127-2f99-4735-a1cd-93ba88388e61",
+    "amount": 166500,
+    "cat": "Lainnya",
+    "date": "2026-06-05",
+    "method": "Lainnya",
+    "note": "Wifi",
+    "created": 1780617600000
+  },
+  {
+    "id": "5ac008a3-51b0-4f53-97f5-cab5cc2bd244",
+    "amount": 1500000,
+    "cat": "Lainnya",
+    "date": "2026-06-05",
+    "method": "Lainnya",
+    "note": "Angsuran",
+    "created": 1780617600000
+  },
+  {
+    "id": "5126d089-c59a-47a7-89b8-166151cff6d7",
+    "amount": 38000,
+    "cat": "Kesehatan",
+    "date": "2026-06-05",
+    "method": "Lainnya",
+    "note": "Obat",
+    "created": 1780617600000
+  },
+  {
+    "id": "8370c445-bcc1-4b3a-9e38-dbf290d8cacc",
+    "amount": 16000,
+    "cat": "Makan",
+    "date": "2026-06-06",
+    "method": "Lainnya",
+    "note": "Nyarap",
+    "created": 1780704000000
+  },
+  {
+    "id": "85e99d2f-89bc-4b68-88da-c25c8a49d7c2",
+    "amount": 5000,
+    "cat": "Transportasi",
+    "date": "2026-06-06",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1780704000000
+  },
+  {
+    "id": "6e902eff-8e46-4372-8d35-871f5c8436c0",
+    "amount": 115000,
+    "cat": "Lainnya",
+    "date": "2026-06-06",
+    "method": "Lainnya",
+    "note": "Service",
+    "created": 1780704000000
+  },
+  {
+    "id": "649a40ed-87a1-41a9-bdcf-7c49bf59fa76",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2026-06-06",
+    "method": "Lainnya",
+    "note": "Jepe",
+    "created": 1780704000000
+  },
+  {
+    "id": "82c41457-eb5e-4520-a2cb-ac0318d35409",
+    "amount": 21500,
+    "cat": "Makan",
+    "date": "2026-06-06",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1780704000000
+  },
+  {
+    "id": "225ca27f-77fa-466d-a743-2259cde61701",
+    "amount": 8000,
+    "cat": "Makan",
+    "date": "2026-06-06",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1780704000000
+  },
+  {
+    "id": "74817c25-0d3b-4212-ac30-9d1d1382c89c",
+    "amount": 84000,
+    "cat": "Transportasi",
+    "date": "2026-06-06",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1780704000000
+  },
+  {
+    "id": "c48d058d-379b-45db-8cb9-a206d0b92911",
+    "amount": 5000,
+    "cat": "Makan",
+    "date": "2026-06-07",
+    "method": "Lainnya",
+    "note": "Pentho",
+    "created": 1780790400000
+  },
+  {
+    "id": "598c0ad1-ebce-4d29-b507-bed24568208e",
+    "amount": 50000,
+    "cat": "Makan",
+    "date": "2026-06-07",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1780790400000
+  },
+  {
+    "id": "c2d96c2b-8a5d-4d81-8901-c2cd849ff785",
+    "amount": 12000,
+    "cat": "Makan",
+    "date": "2026-06-08",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1780876800000
+  },
+  {
+    "id": "96b51fa5-8a98-40e9-b3ac-7b4dac1ef149",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-06-08",
+    "method": "Lainnya",
+    "note": "Parkir+PO",
+    "created": 1780876800000
+  },
+  {
+    "id": "6023f171-165b-40e7-9400-9429e88d2a74",
+    "amount": 27000,
+    "cat": "Belanja",
+    "date": "2026-06-08",
+    "method": "Lainnya",
+    "note": "Parfum",
+    "created": 1780876800000
+  },
+  {
+    "id": "ded7fe59-cab0-424d-b225-a202c79e5b2e",
+    "amount": 20000,
+    "cat": "Lainnya",
+    "date": "2026-06-08",
+    "method": "Lainnya",
+    "note": "Bakso",
+    "created": 1780876800000
+  },
+  {
+    "id": "29659934-806d-441a-947a-b9796be98916",
+    "amount": 9000,
+    "cat": "Lainnya",
+    "date": "2026-06-08",
+    "method": "Lainnya",
+    "note": "Angkring",
+    "created": 1780876800000
+  },
+  {
+    "id": "5e1a1f25-03e6-4205-966e-c69210909a60",
+    "amount": 94000,
+    "cat": "Lainnya",
+    "date": "2026-06-09",
+    "method": "Lainnya",
+    "note": "Lawu",
+    "created": 1780963200000
+  },
+  {
+    "id": "d8d00264-0bb8-4ee2-889e-f952a12de246",
+    "amount": 46000,
+    "cat": "Belanja",
+    "date": "2026-06-09",
+    "method": "Lainnya",
+    "note": "Shopee",
+    "created": 1780963200000
+  },
+  {
+    "id": "ce8596de-8628-4b6c-8857-b179675656da",
+    "amount": 100000,
+    "cat": "Transportasi",
+    "date": "2026-06-10",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1781049600000
+  },
+  {
+    "id": "55151401-63ac-4370-8add-8ea7fd682e81",
+    "amount": 4000,
+    "cat": "Transportasi",
+    "date": "2026-06-10",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1781049600000
+  },
+  {
+    "id": "bcf8243f-ea6f-46fd-af63-c74f392837d9",
+    "amount": 14000,
+    "cat": "Makan",
+    "date": "2026-06-10",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1781049600000
+  },
+  {
+    "id": "87aa0768-7dbc-4c69-ae63-a32a39a2c75e",
+    "amount": 18000,
+    "cat": "Lainnya",
+    "date": "2026-06-10",
+    "method": "Lainnya",
+    "note": "Burger",
+    "created": 1781049600000
+  },
+  {
+    "id": "595e886c-df13-4a4e-86fa-a9620ba51f99",
+    "amount": 12000,
+    "cat": "Makan",
+    "date": "2026-06-11",
+    "method": "Lainnya",
+    "note": "Nyarap",
+    "created": 1781136000000
+  },
+  {
+    "id": "6db60655-934e-42d5-b759-0d9455885253",
+    "amount": 4000,
+    "cat": "Transportasi",
+    "date": "2026-06-11",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1781136000000
+  },
+  {
+    "id": "115d9603-3d46-4785-a446-e427488a350c",
+    "amount": 15000,
+    "cat": "Makan",
+    "date": "2026-06-11",
+    "method": "Lainnya",
+    "note": "Madyang",
+    "created": 1781136000000
+  },
+  {
+    "id": "a49f79d9-fc58-42ca-9097-c1f7a44250c3",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2026-06-12",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1781222400000
+  },
+  {
+    "id": "68fbb70c-5195-436f-9e71-4122b090afae",
+    "amount": 12000,
+    "cat": "Makan",
+    "date": "2026-06-12",
+    "method": "Lainnya",
+    "note": "Sari Roti",
+    "created": 1781222400000
+  },
+  {
+    "id": "2e8dcf49-f884-45af-a64b-c166953e0afa",
+    "amount": 40000,
+    "cat": "Lainnya",
+    "date": "2026-06-12",
+    "method": "Lainnya",
+    "note": "Tombok",
+    "created": 1781222400000
+  },
+  {
+    "id": "b07f445d-e20c-4b6d-be76-630410c24eb3",
+    "amount": 50000,
+    "cat": "Hiburan",
+    "date": "2026-08-01",
+    "method": "Lainnya",
+    "note": "Tiket Bis",
+    "created": 1785542400000
+  },
+  {
+    "id": "1891d39c-10ea-4c60-9dfb-f86716a8bd91",
+    "amount": 30000,
+    "cat": "Makan",
+    "date": "2026-08-01",
+    "method": "Lainnya",
+    "note": "Soto",
+    "created": 1785542400000
+  },
+  {
+    "id": "ae3e75fc-97ba-4780-99c3-80913ffeeeb0",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2026-08-01",
+    "method": "Lainnya",
+    "note": "Sarapan",
+    "created": 1785542400000
+  },
+  {
+    "id": "9bcdb82a-3955-4a9c-93e1-38083eb2a9dd",
+    "amount": 6000,
+    "cat": "Transportasi",
+    "date": "2026-08-01",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1785542400000
+  },
+  {
+    "id": "8533b9e4-1ea7-4af6-b4c2-75a4ac013f3e",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2026-08-01",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1785542400000
+  },
+  {
+    "id": "3a36e0e1-33fe-4a26-9c85-748e79143176",
+    "amount": 100000,
+    "cat": "Transportasi",
+    "date": "2026-08-01",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1785542400000
+  },
+  {
+    "id": "86122c9e-d056-47f5-a788-2cf32695afa4",
+    "amount": 15000,
+    "cat": "Makan",
+    "date": "2026-08-01",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1785542400000
+  },
+  {
+    "id": "1a5b9f60-986f-457d-995b-ff0521d54690",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2026-08-02",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1785628800000
+  },
+  {
+    "id": "dd7c0638-a43f-44ed-81c2-ba63afc0adae",
+    "amount": 11000,
+    "cat": "Makan",
+    "date": "2026-08-03",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1785715200000
+  },
+  {
+    "id": "5aa3175a-28c2-4b62-ba32-a2bdb56f852f",
+    "amount": 3500,
+    "cat": "Transportasi",
+    "date": "2026-08-03",
+    "method": "Lainnya",
+    "note": "Parkir+PO",
+    "created": 1785715200000
+  },
+  {
+    "id": "cb9d6820-1f2c-45e2-91e2-3df6597c43f5",
+    "amount": 49000,
+    "cat": "Tagihan",
+    "date": "2026-08-03",
+    "method": "Lainnya",
+    "note": "iCloud",
+    "created": 1785715200000
+  },
+  {
+    "id": "829782e2-0d0f-4fc9-a070-bce0dc0e898b",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2026-08-03",
+    "method": "Lainnya",
+    "note": "Bakwi",
+    "created": 1785715200000
+  },
+  {
+    "id": "bebd3f54-1355-43ff-82e7-8794b4938c16",
+    "amount": 5000,
+    "cat": "Makan",
+    "date": "2026-08-03",
+    "method": "Lainnya",
+    "note": "Mie",
+    "created": 1785715200000
+  },
+  {
+    "id": "f14514ab-d5bc-45a2-a5a2-4127bbd5fdc7",
+    "amount": 3500,
+    "cat": "Lainnya",
+    "date": "2026-08-04",
+    "method": "Lainnya",
+    "note": "Bolpoin",
+    "created": 1785801600000
+  },
+  {
+    "id": "60b29a08-e034-4982-898b-dfca2f5972a4",
+    "amount": 20000,
+    "cat": "Makan",
+    "date": "2026-08-04",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1785801600000
+  },
+  {
+    "id": "c6d12e20-7fd7-49d1-ac23-0cdef845eec7",
+    "amount": 3000,
+    "cat": "Transportasi",
+    "date": "2026-08-04",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1785801600000
+  },
+  {
+    "id": "bffab9fe-7ebb-44c6-9904-bae5774d7c88",
+    "amount": 23000,
+    "cat": "Makan",
+    "date": "2026-08-04",
+    "method": "Lainnya",
+    "note": "Roti",
+    "created": 1785801600000
+  },
+  {
+    "id": "19ec538b-a27d-406e-859f-3fbff31bf4f0",
+    "amount": 117000,
+    "cat": "Transportasi",
+    "date": "2026-08-04",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1785801600000
+  },
+  {
+    "id": "b1430009-90cc-4b0d-8352-e7ece428789d",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-08-05",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1785888000000
+  },
+  {
+    "id": "da51dd5d-f331-4337-a749-203da78cc0fe",
+    "amount": 16500,
+    "cat": "Makan",
+    "date": "2026-08-05",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1785888000000
+  },
+  {
+    "id": "3855897d-d30e-403e-b45f-bc776ef34e21",
+    "amount": 60000,
+    "cat": "Lainnya",
+    "date": "2026-08-05",
+    "method": "Lainnya",
+    "note": "Dp",
+    "created": 1785888000000
+  },
+  {
+    "id": "959d98f7-f4c3-4ab9-851b-ec0bfd232eb8",
+    "amount": 12000,
+    "cat": "Makan",
+    "date": "2026-08-05",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1785888000000
+  },
+  {
+    "id": "4944602b-05ed-41d8-90c5-1829a489d330",
+    "amount": 7000,
+    "cat": "Transportasi",
+    "date": "2026-08-06",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1785974400000
+  },
+  {
+    "id": "e71c19f5-223b-4549-88d6-b63a5dedf5a1",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2026-08-06",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1785974400000
+  },
+  {
+    "id": "ba8bd5eb-3d74-4978-91aa-1fddf9f94e9a",
+    "amount": 10000,
+    "cat": "Transportasi",
+    "date": "2026-08-07",
+    "method": "Lainnya",
+    "note": "Ojek",
+    "created": 1786060800000
+  },
+  {
+    "id": "4eea1401-58fe-49d4-968b-2ba5ab678ab4",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-08-07",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1786060800000
+  },
+  {
+    "id": "01f7bea0-aa2c-482f-aeae-0627885e9934",
+    "amount": 166500,
+    "cat": "Lainnya",
+    "date": "2026-08-07",
+    "method": "Lainnya",
+    "note": "Wifi",
+    "created": 1786060800000
+  },
+  {
+    "id": "ba40edca-6df7-4a79-a7b5-b180e0ba175f",
+    "amount": 15000,
+    "cat": "Makan",
+    "date": "2026-08-07",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1786060800000
+  },
+  {
+    "id": "99686ed4-3a1d-4ac1-b13b-2011b3e1bdee",
+    "amount": 118000,
+    "cat": "Transportasi",
+    "date": "2026-08-07",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1786060800000
+  },
+  {
+    "id": "b5caabcc-929c-4024-aaf3-e76f6028056b",
+    "amount": 14000,
+    "cat": "Makan",
+    "date": "2026-08-07",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1786060800000
+  },
+  {
+    "id": "03177a5a-2749-4457-9145-15dafcf8b3fb",
+    "amount": 156575,
+    "cat": "Lainnya",
+    "date": "2026-08-08",
+    "method": "Lainnya",
+    "note": "Paket",
+    "created": 1786147200000
+  },
+  {
+    "id": "bb6378a0-494f-45f3-9d20-1e540bbbebf7",
+    "amount": 10000,
+    "cat": "Transportasi",
+    "date": "2026-08-09",
+    "method": "Lainnya",
+    "note": "Ojek",
+    "created": 1786233600000
+  },
+  {
+    "id": "b3ecfefd-2734-4fc8-ba25-e8abecd8cc73",
+    "amount": 25000,
+    "cat": "Makan",
+    "date": "2026-08-09",
+    "method": "Lainnya",
+    "note": "Martabak",
+    "created": 1786233600000
+  },
+  {
+    "id": "a93686ed-654e-47c5-a437-5aeaf8df416d",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2026-08-10",
+    "method": "Lainnya",
+    "note": "Soto",
+    "created": 1786320000000
+  },
+  {
+    "id": "b8669917-ed91-4ba1-9394-8ac73a243aac",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-08-10",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1786320000000
+  },
+  {
+    "id": "c6c148ff-262f-48fd-aef4-2ea94ef018d4",
+    "amount": 26000,
+    "cat": "Lainnya",
+    "date": "2026-08-10",
+    "method": "Lainnya",
+    "note": "Deodorant",
+    "created": 1786320000000
+  },
+  {
+    "id": "9b1f8f85-5037-4e7c-bbf0-1cd6d4c0c0c2",
+    "amount": 4000,
+    "cat": "Lainnya",
+    "date": "2026-08-10",
+    "method": "Lainnya",
+    "note": "Isolasi",
+    "created": 1786320000000
+  },
+  {
+    "id": "db75e815-ecbc-4345-9aee-a2f0a39e4ee1",
+    "amount": 13000,
+    "cat": "Makan",
+    "date": "2026-08-10",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1786320000000
+  },
+  {
+    "id": "cbfaa416-05f3-4a1d-9fd8-33b72324f0d1",
+    "amount": 6000,
+    "cat": "Transportasi",
+    "date": "2026-08-10",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1786320000000
+  },
+  {
+    "id": "8a95ad74-3680-4117-afb1-432a7a2b980f",
+    "amount": 25000,
+    "cat": "Makan",
+    "date": "2026-08-11",
+    "method": "Lainnya",
+    "note": "Soto",
+    "created": 1786406400000
+  },
+  {
+    "id": "bcd99fda-77a0-475b-906f-33a723781f84",
+    "amount": 9000,
+    "cat": "Lainnya",
+    "date": "2026-08-11",
+    "method": "Lainnya",
+    "note": "Sarapan",
+    "created": 1786406400000
+  },
+  {
+    "id": "f60d3ca6-ffed-4646-a608-8cd3f6542159",
+    "amount": 1000,
+    "cat": "Transportasi",
+    "date": "2026-08-11",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1786406400000
+  },
+  {
+    "id": "a235c817-8a4f-47ae-9dcc-bd747fe56129",
+    "amount": 26000,
+    "cat": "Makan",
+    "date": "2026-08-11",
+    "method": "Lainnya",
+    "note": "Mie Ayam",
+    "created": 1786406400000
+  },
+  {
+    "id": "ce694672-7fe9-48db-99b1-a9cec86cb8e4",
+    "amount": 9000,
+    "cat": "Lainnya",
+    "date": "2026-08-12",
+    "method": "Lainnya",
+    "note": "Sarapan",
+    "created": 1786492800000
+  },
+  {
+    "id": "f3573206-52c7-4158-ba35-3dedb321f03b",
+    "amount": 18000,
+    "cat": "Lainnya",
+    "date": "2026-09-01",
+    "method": "Lainnya",
+    "note": "FotoCopy8adrep",
+    "created": 1788220800000
+  },
+  {
+    "id": "5709e37d-dee3-4a9d-8c77-0520bd470083",
+    "amount": 30000,
+    "cat": "Lainnya",
+    "date": "2026-09-01",
+    "method": "Lainnya",
+    "note": "Skok",
+    "created": 1788220800000
+  },
+  {
+    "id": "e8bdb4ed-2068-40f3-8fe4-282516870844",
+    "amount": 10000,
+    "cat": "Makan",
+    "date": "2026-09-02",
+    "method": "Lainnya",
+    "note": "PopMie",
+    "created": 1788307200000
+  },
+  {
+    "id": "68a7e46a-b21e-4b9c-a691-d08f0aa6b253",
+    "amount": 20000,
+    "cat": "Makan",
+    "date": "2026-09-02",
+    "method": "Lainnya",
+    "note": "Martabak",
+    "created": 1788307200000
+  },
+  {
+    "id": "6eac7cba-085d-47b0-b004-bc46efc85edb",
+    "amount": 25000,
+    "cat": "Makan",
+    "date": "2026-09-02",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1788307200000
+  },
+  {
+    "id": "efc758f7-7bc5-4a23-a5b5-f23caecf8353",
+    "amount": 404869,
+    "cat": "Tagihan",
+    "date": "2026-09-02",
+    "method": "Lainnya",
+    "note": "Bayar Retur&Paylatter",
+    "created": 1788307200000
+  },
+  {
+    "id": "64defcfd-e7b9-4371-8ce2-82fdddf60384",
+    "amount": 59000,
+    "cat": "Tagihan",
+    "date": "2026-09-02",
+    "method": "Lainnya",
+    "note": "iCloud",
+    "created": 1788307200000
+  },
+  {
+    "id": "04afd125-c3ac-4630-9c74-dbec45cf0577",
+    "amount": 20000,
+    "cat": "Lainnya",
+    "date": "2026-09-02",
+    "method": "Lainnya",
+    "note": "Snack",
+    "created": 1788307200000
+  },
+  {
+    "id": "d509de1b-8029-4418-ac5d-347392524ed5",
+    "amount": 16000,
+    "cat": "Makan",
+    "date": "2026-09-02",
+    "method": "Lainnya",
+    "note": "Madang",
+    "created": 1788307200000
+  },
+  {
+    "id": "cdf1cdca-8a34-4f91-a829-17e1cc8a39a5",
+    "amount": 17000,
+    "cat": "Lainnya",
+    "date": "2026-09-03",
+    "method": "Lainnya",
+    "note": "Tahu Gimbal",
+    "created": 1788393600000
+  },
+  {
+    "id": "6948b2e9-4db8-4a93-bf83-e348265a86f4",
+    "amount": 6000,
+    "cat": "Lainnya",
+    "date": "2026-09-04",
+    "method": "Lainnya",
+    "note": "Fotocopy",
+    "created": 1788480000000
+  },
+  {
+    "id": "23371466-8b13-4f7a-8266-0645aa7310d7",
+    "amount": 70000,
+    "cat": "Tagihan",
+    "date": "2026-09-04",
+    "method": "Lainnya",
+    "note": "Pulsa",
+    "created": 1788480000000
+  },
+  {
+    "id": "564ea198-c0ab-4071-a5e5-ed2eef5cd0cb",
+    "amount": 166500,
+    "cat": "Lainnya",
+    "date": "2026-09-04",
+    "method": "Lainnya",
+    "note": "Wifi",
+    "created": 1788480000000
+  },
+  {
+    "id": "ab1adf3e-7f74-4dda-918c-088c50fa482f",
+    "amount": 35000,
+    "cat": "Lainnya",
+    "date": "2026-09-04",
+    "method": "Lainnya",
+    "note": "Wedangan",
+    "created": 1788480000000
+  },
+  {
+    "id": "ad8c3b53-8d72-4127-927f-225cbdcd03e6",
+    "amount": 23000,
+    "cat": "Makan",
+    "date": "2026-09-04",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1788480000000
+  },
+  {
+    "id": "6ca3c606-370e-41b1-a471-3beacc3892da",
+    "amount": 16000,
+    "cat": "Lainnya",
+    "date": "2026-09-04",
+    "method": "Lainnya",
+    "note": "Nongkrong",
+    "created": 1788480000000
+  },
+  {
+    "id": "6af4e9cf-5e40-4455-abc8-58f8c1ad5333",
+    "amount": 100000,
+    "cat": "Transportasi",
+    "date": "2026-09-06",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1788652800000
+  },
+  {
+    "id": "8153d6b5-f989-4d64-b348-2509a7f75df5",
+    "amount": 20000,
+    "cat": "Makan",
+    "date": "2026-09-06",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1788652800000
+  },
+  {
+    "id": "a4b56f45-fd65-4b72-a1a8-7a8c6a42dfb6",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-09-06",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1788652800000
+  },
+  {
+    "id": "72e2d592-4be6-4e04-a35d-97df6d2a5783",
+    "amount": 12000,
+    "cat": "Makan",
+    "date": "2026-09-06",
+    "method": "Lainnya",
+    "note": "Soto",
+    "created": 1788652800000
+  },
+  {
+    "id": "6b2e38b3-85c0-4153-a73a-ad877f5c9733",
+    "amount": 18000,
+    "cat": "Lainnya",
+    "date": "2026-09-07",
+    "method": "Lainnya",
+    "note": "Potong",
+    "created": 1788739200000
+  },
+  {
+    "id": "b5939177-436d-41ab-84df-3fbdb8ac1db8",
+    "amount": 37500,
+    "cat": "Lainnya",
+    "date": "2026-09-07",
+    "method": "Lainnya",
+    "note": "Ngopi",
+    "created": 1788739200000
+  },
+  {
+    "id": "279f706b-a415-4a98-9ebe-8e3173c5aeec",
+    "amount": 18000,
+    "cat": "Makan",
+    "date": "2026-09-07",
+    "method": "Lainnya",
+    "note": "Makan",
+    "created": 1788739200000
+  },
+  {
+    "id": "f0b597d5-e071-449a-9220-ade9b474ff44",
+    "amount": 15000,
+    "cat": "Tagihan",
+    "date": "2026-09-08",
+    "method": "Lainnya",
+    "note": "Admin BCA",
+    "created": 1788825600000
+  },
+  {
+    "id": "b4e0872c-aa34-4f51-9e02-415ca2757d6d",
+    "amount": 10000,
+    "cat": "Transportasi",
+    "date": "2026-09-08",
+    "method": "Lainnya",
+    "note": "Ojek",
+    "created": 1788825600000
+  },
+  {
+    "id": "b68fad0b-5b8f-433b-8b8a-d7591d95702e",
+    "amount": 36700,
+    "cat": "Makan",
+    "date": "2026-09-09",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1788912000000
+  },
+  {
+    "id": "99d64f2a-4540-47f8-9f5a-cacc501a91c7",
+    "amount": 45000,
+    "cat": "Lainnya",
+    "date": "2026-09-09",
+    "method": "Lainnya",
+    "note": "Mangan",
+    "created": 1788912000000
+  },
+  {
+    "id": "47813e39-1f2d-4e3b-b85f-3a247b8550c9",
+    "amount": 11500,
+    "cat": "Lainnya",
+    "date": "2026-09-10",
+    "method": "Lainnya",
+    "note": "Mangan",
+    "created": 1788998400000
+  },
+  {
+    "id": "29918359-f521-4f59-bc89-5b7af7e5b1e2",
+    "amount": 18500,
+    "cat": "Makan",
+    "date": "2026-09-10",
+    "method": "Lainnya",
+    "note": "Kopi",
+    "created": 1788998400000
+  },
+  {
+    "id": "0cfb4973-f6d2-4a64-a4bb-3b877659369a",
+    "amount": 10000,
+    "cat": "Transportasi",
+    "date": "2026-09-10",
+    "method": "Lainnya",
+    "note": "Ojek",
+    "created": 1788998400000
+  },
+  {
+    "id": "8a855023-2e74-4a83-83af-35dc8f628270",
+    "amount": 33000,
+    "cat": "Makan",
+    "date": "2026-09-11",
+    "method": "Lainnya",
+    "note": "Jajan",
+    "created": 1789084800000
+  },
+  {
+    "id": "533d24b2-8abe-4b16-9f38-6a17cae8da17",
+    "amount": 9000,
+    "cat": "Transportasi",
+    "date": "2026-09-12",
+    "method": "Lainnya",
+    "note": "Ojek",
+    "created": 1789171200000
+  },
+  {
+    "id": "1264996b-75e6-4439-befe-3b36ebbfdc48",
+    "amount": 4000,
+    "cat": "Transportasi",
+    "date": "2026-09-12",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1789171200000
+  },
+  {
+    "id": "bca0dd2e-3b66-4331-a2ab-af28be94f33b",
+    "amount": 43000,
+    "cat": "Lainnya",
+    "date": "2026-09-12",
+    "method": "Lainnya",
+    "note": "Ngopi",
+    "created": 1789171200000
+  },
+  {
+    "id": "49bb77ca-e233-4d5b-9423-528994242b6e",
+    "amount": 19500,
+    "cat": "Belanja",
+    "date": "2026-09-13",
+    "method": "Lainnya",
+    "note": "Shopeefood",
+    "created": 1789257600000
+  },
+  {
+    "id": "4103de59-21cc-4c1b-9d48-f9c9687609f4",
+    "amount": 14000,
+    "cat": "Lainnya",
+    "date": "2026-09-13",
+    "method": "Lainnya",
+    "note": "Whatsapp Plus",
+    "created": 1789257600000
+  },
+  {
+    "id": "b9073efb-87c0-4dda-8fd2-a52458535dfa",
+    "amount": 10000,
+    "cat": "Lainnya",
+    "date": "2026-09-14",
+    "method": "Lainnya",
+    "note": "Steker",
+    "created": 1789344000000
+  },
+  {
+    "id": "c0409f48-6d31-41c4-b059-9b921dd86650",
+    "amount": 100000,
+    "cat": "Transportasi",
+    "date": "2026-09-14",
+    "method": "Lainnya",
+    "note": "Bensin",
+    "created": 1789344000000
+  },
+  {
+    "id": "36029230-7278-4d0a-beac-1cabd3ccc645",
+    "amount": 25950,
+    "cat": "Tagihan",
+    "date": "2026-09-15",
+    "method": "Lainnya",
+    "note": "Kuota",
+    "created": 1789430400000
+  },
+  {
+    "id": "5e740130-8f69-416b-80c3-a470bf500897",
+    "amount": 29000,
+    "cat": "Lainnya",
+    "date": "2026-09-15",
+    "method": "Lainnya",
+    "note": "Ngopi",
+    "created": 1789430400000
+  },
+  {
+    "id": "805b7589-e96b-428c-ae2f-7ead6d8832b9",
+    "amount": 2000,
+    "cat": "Transportasi",
+    "date": "2026-09-15",
+    "method": "Lainnya",
+    "note": "Parkir",
+    "created": 1789430400000
+  }
+]
