@@ -25,18 +25,13 @@ label{display:block;font-size:13px;font-weight:600;margin:13px 0 7px}.field{widt
 </head>
 <body>
 <div class="app">
-<header><div><h1>Dompetku</h1><div class="sub">Catat pengeluaran tanpa ribet.</div></div><div style="display:flex;gap:8px;align-items:center"><button class="link" onclick="document.getElementById('importFile').click()">Import</button><input id="importFile" type="file" accept=".json,application/json" style="display:none" onchange="importData(this.files[0])"><input id="month" class="month" type="month"></div></header>
+<header><div><h1>Dompetku</h1><div class="sub">Catat pengeluaran tanpa ribet.</div></div><div style="display:flex;gap:8px;align-items:center"><button class="link" onclick="document.getElementById('importFile').click()">Import</button><button class="link" onclick="exportData()">Export</button><input id="importFile" type="file" accept=".json,application/json" style="display:none" onchange="importData(this.files[0])"><input id="month" class="month" type="month"></div></header>
 <div class="summary"><div class="label">Pengeluaran bulan ini</div><div id="total" class="total">Rp0</div><div class="stats"><div class="stat"><small>Transaksi</small><b id="count">0</b></div><div class="stat"><small>Rata-rata</small><b id="avg">Rp0</b></div></div></div>
-
 <div class="section"><div class="section-head"><h2>Kategori</h2><button class="link" onclick="openAnalytics()">Lihat analisis →</button></div><div id="cats" class="card categories"></div></div>
-
 <div class="section"><div class="section-head"><h2>Transaksi terbaru</h2><button class="link" onclick="openHistory()">Lihat semua →</button></div><div id="recent" class="card"></div></div>
 </div>
-
 <div class="bottom"><div class="bottom-inner"><button class="add" onclick="openAdd()">＋ Tambah Pengeluaran</button></div></div>
-
 <div id="modal" class="modal" onclick="if(event.target===this)closeModal()"><div class="sheet" id="sheet"></div></div>
-
 <script>
 const CATS={Makan:"🍜",Transportasi:"🛵",Belanja:"🛍️",Hiburan:"🎮",Tagihan:"💡",Kesehatan:"💊",Pendidikan:"📚",Lainnya:"📦"};
 let data=JSON.parse(localStorage.getItem("dompetku_tx")||"[]");
@@ -47,76 +42,19 @@ function monthNow(){return new Date().toISOString().slice(0,7)}
 document.getElementById("month").value=monthNow();document.getElementById("month").onchange=render;
 function current(){return document.getElementById("month").value||monthNow()}
 function filtered(){return data.filter(x=>x.date.startsWith(current())).sort((a,b)=>b.date.localeCompare(a.date)||b.created-a.created)}
-function render(){
- let xs=filtered(), total=xs.reduce((s,x)=>s+x.amount,0);
- totalEl("total",rupiah(total));totalEl("count",xs.length);totalEl("avg",rupiah(xs.length?total/xs.length:0));
- let by={};xs.forEach(x=>by[x.cat]=(by[x.cat]||0)+x.amount);
- document.getElementById("cats").innerHTML=Object.keys(CATS).map(c=>`<div class="cat"><div class="emoji">${CATS[c]}</div><small>${c}</small><b>${rupiah(by[c]||0).replace("Rp","")}</b></div>`).join("");
- document.getElementById("recent").innerHTML=xs.slice(0,7).map(txHTML).join("")||'<div class="empty">Belum ada pengeluaran bulan ini.<br>Tap tombol di bawah untuk mulai.</div>';
-}
+function render(){let xs=filtered(),total=xs.reduce((s,x)=>s+x.amount,0);totalEl("total",rupiah(total));totalEl("count",xs.length);totalEl("avg",rupiah(xs.length?total/xs.length:0));let by={};xs.forEach(x=>by[x.cat]=(by[x.cat]||0)+x.amount);document.getElementById("cats").innerHTML=Object.keys(CATS).map(c=>`<div class="cat"><div class="emoji">${CATS[c]}</div><small>${c}</small><b>${rupiah(by[c]||0).replace("Rp","")}</b></div>`).join("");document.getElementById("recent").innerHTML=xs.slice(0,7).map(txHTML).join("")||'<div class="empty">Belum ada pengeluaran bulan ini.<br>Tap tombol di bawah untuk mulai.</div>'}
 function totalEl(id,v){document.getElementById(id).textContent=v}
 function txHTML(x){return `<div class="tx"><div class="icon">${CATS[x.cat]||"📦"}</div><div class="txmain"><b>${esc(x.note||x.cat)}</b><span>${x.cat} · ${fmtDate(x.date)}${x.method?" · "+x.method:""}</span></div><div class="amount">${rupiah(x.amount)}</div></div>`}
-function esc(s){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
-function openAdd(edit=null){
- const x=edit||{date:new Date().toISOString().slice(0,10),cat:"Makan",amount:"",note:"",method:"Cash"};
- document.getElementById("sheet").innerHTML=`<div class="sheet-head"><h2>${edit?"Edit":"Tambah"} Pengeluaran</h2><button class="close" onclick="closeModal()">×</button></div>
- <label>Nominal</label><input id="fAmount" class="field" inputmode="numeric" type="number" min="0" placeholder="Contoh: 25000" value="${x.amount}">
- <div class="grid2"><div><label>Kategori</label><select id="fCat" class="field">${Object.keys(CATS).map(c=>`<option ${x.cat===c?"selected":""}>${c}</option>`).join("")}</select></div>
- <div><label>Tanggal</label><input id="fDate" class="field" type="date" value="${x.date}"></div></div>
- <label>Metode pembayaran</label><select id="fMethod" class="field">${["Cash","Debit","E-Wallet","Transfer","Lainnya"].map(c=>`<option ${x.method===c?"selected":""}>${c}</option>`).join("")}</select>
- <label>Catatan</label><input id="fNote" class="field" maxlength="80" placeholder="Contoh: makan siang" value="${esc(x.note||"")}">
- <button class="save" onclick='submitTx(${edit?JSON.stringify(edit.id):"null"})'>Simpan Pengeluaran</button>`;
- showModal();
-}
-function submitTx(id){
- let amount=Number(document.getElementById("fAmount").value);
- if(!amount||amount<0)return alert("Masukkan nominal yang valid.");
- let x={id:id||crypto.randomUUID(),amount,cat:document.getElementById("fCat").value,date:document.getElementById("fDate").value,method:document.getElementById("fMethod").value,note:document.getElementById("fNote").value.trim(),created:Date.now()};
- if(id){let i=data.findIndex(a=>a.id===id);if(i>=0)data[i]={...data[i],...x}}else data.push(x);save();closeModal();render()
-}
-function openHistory(){
- document.getElementById("sheet").innerHTML=`<div class="sheet-head"><h2>Semua Transaksi</h2><button class="close" onclick="closeModal()">×</button></div><div class="filter"><button class="active" onclick="historyFilter(this,'all')">Semua</button>${Object.keys(CATS).map(c=>`<button onclick="historyFilter(this,'${c}')">${CATS[c]} ${c}</button>`).join("")}</div><div id="historyList"></div>`;
- showModal();historyFilter(null,"all")
-}
+function esc(s){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]))}
+function openAdd(edit=null){const x=edit||{date:new Date().toISOString().slice(0,10),cat:"Makan",amount:"",note:"",method:"Cash"};document.getElementById("sheet").innerHTML=`<div class="sheet-head"><h2>${edit?"Edit":"Tambah"} Pengeluaran</h2><button class="close" onclick="closeModal()">×</button></div><label>Nominal</label><input id="fAmount" class="field" inputmode="numeric" type="number" min="0" placeholder="Contoh: 25000" value="${x.amount}"><div class="grid2"><div><label>Kategori</label><select id="fCat" class="field">${Object.keys(CATS).map(c=>`<option ${x.cat===c?"selected":""}>${c}</option>`).join("")}</select></div><div><label>Tanggal</label><input id="fDate" class="field" type="date" value="${x.date}"></div></div><label>Metode pembayaran</label><select id="fMethod" class="field">${["Cash","Debit","QRIS","Transfer","Lainnya"].map(c=>`<option ${x.method===c?"selected":""}>${c}</option>`).join("")}</select><label>Catatan</label><input id="fNote" class="field" maxlength="80" placeholder="Contoh: makan siang" value="${esc(x.note||"")}"><button class="save" onclick='submitTx(${edit?JSON.stringify(edit.id):"null"})'>Simpan Pengeluaran</button>`;showModal()}
+function submitTx(id){let amount=Number(document.getElementById("fAmount").value);if(!amount||amount<0)return alert("Masukkan nominal yang valid.");let x={id:id||crypto.randomUUID(),amount,cat:document.getElementById("fCat").value,date:document.getElementById("fDate").value,method:document.getElementById("fMethod").value,note:document.getElementById("fNote").value.trim(),created:Date.now()};if(id){let i=data.findIndex(a=>a.id===id);if(i>=0)data[i]={...data[i],...x}}else data.push(x);save();closeModal();render()}
+function openHistory(){document.getElementById("sheet").innerHTML=`<div class="sheet-head"><h2>Semua Transaksi</h2><button class="close" onclick="closeModal()">×</button></div><div class="filter"><button class="active" onclick="historyFilter(this,'all')">Semua</button>${Object.keys(CATS).map(c=>`<button onclick="historyFilter(this,'${c}')">${CATS[c]} ${c}</button>`).join("")}</div><div id="historyList"></div>`;showModal();historyFilter(null,"all")}
 function historyFilter(btn,cat){if(btn){document.querySelectorAll(".filter button").forEach(b=>b.classList.remove("active"));btn.classList.add("active")}let xs=filtered().filter(x=>cat==="all"||x.cat===cat);document.getElementById("historyList").innerHTML=xs.map(x=>txHTML(x)+`<div style="text-align:right"><button class="danger" onclick='openAdd(${JSON.stringify(x)})'>Edit</button><button class="danger" onclick='removeTx("${x.id}")'>Hapus</button></div>`).join("")||'<div class="empty">Tidak ada transaksi.</div>'}
 function removeTx(id){if(confirm("Hapus transaksi ini?")){data=data.filter(x=>x.id!==id);save();openHistory();render()}}
-function openAnalytics(){
- let xs=filtered(),by={};xs.forEach(x=>by[x.cat]=(by[x.cat]||0)+x.amount);let max=Math.max(...Object.values(by),1),total=xs.reduce((s,x)=>s+x.amount,0);
- document.getElementById("sheet").innerHTML=`<div class="sheet-head"><h2>Analisis ${current()}</h2><button class="close" onclick="closeModal()">×</button></div><div class="card"><b>Total: ${rupiah(total)}</b>${Object.entries(by).sort((a,b)=>b[1]-a[1]).map(([c,v])=>`<div class="barrow"><div class="barlabel"><span>${CATS[c]} ${c}</span><b>${rupiah(v)}</b></div><div class="track"><div class="bar" style="width:${v/max*100}%"></div></div></div>`).join("")||'<div class="empty">Belum ada data.</div>'}</div>`;
- showModal()
-}
+function openAnalytics(){let xs=filtered(),by={};xs.forEach(x=>by[x.cat]=(by[x.cat]||0)+x.amount);let max=Math.max(...Object.values(by),1),total=xs.reduce((s,x)=>s+x.amount,0);document.getElementById("sheet").innerHTML=`<div class="sheet-head"><h2>Analisis ${current()}</h2><button class="close" onclick="closeModal()">×</button></div><div class="card"><b>Total: ${rupiah(total)}</b>${Object.entries(by).sort((a,b)=>b[1]-a[1]).map(([c,v])=>`<div class="barrow"><div class="barlabel"><span>${CATS[c]} ${c}</span><b>${rupiah(v)}</b></div><div class="track"><div class="bar" style="width:${v/max*100}%"></div></div></div>`).join("")||'<div class="empty">Belum ada data.</div>'}</div>`;showModal()}
 function showModal(){document.getElementById("modal").classList.add("show")}function closeModal(){document.getElementById("modal").classList.remove("show")}
-
-async function importData(file){
-  if(!file)return;
-  try{
-    const text=await file.text();
-    const incoming=JSON.parse(text);
-    if(!Array.isArray(incoming))throw new Error("Format data bukan array.");
-    const valid=incoming.filter(x=>x&&Number.isFinite(Number(x.amount))&&x.date&&x.cat);
-    if(!valid.length)throw new Error("Tidak ada transaksi valid.");
-    const existing=new Map(data.map(x=>[x.id,x]));
-    valid.forEach(x=>{
-      existing.set(String(x.id||crypto.randomUUID()),{
-        id:String(x.id||crypto.randomUUID()),
-        amount:Number(x.amount),
-        cat:String(x.cat),
-        date:String(x.date),
-        method:String(x.method||"Lainnya"),
-        note:String(x.note||""),
-        created:Number(x.created||Date.now())
-      });
-    });
-    data=Array.from(existing.values());
-    save(); render();
-    alert(`Berhasil import ${valid.length} transaksi ke Dompetku.`);
-  }catch(e){
-    alert("Import gagal: "+e.message);
-  }finally{
-    document.getElementById("importFile").value="";
-  }
-}
-
+async function importData(file){if(!file)return;try{const text=await file.text();const incoming=JSON.parse(text);if(!Array.isArray(incoming))throw new Error("Format data bukan array.");const valid=incoming.filter(x=>x&&Number.isFinite(Number(x.amount))&&x.date&&x.cat);if(!valid.length)throw new Error("Tidak ada transaksi valid.");const existing=new Map(data.map(x=>[x.id,x]));valid.forEach(x=>{const id=String(x.id||crypto.randomUUID());existing.set(id,{id,amount:Number(x.amount),cat:String(x.cat),date:String(x.date),method:String(x.method||"Lainnya"),note:String(x.note||""),created:Number(x.created||Date.now())})});data=Array.from(existing.values());save();render();alert(`Berhasil import ${valid.length} transaksi ke Dompetku.`)}catch(e){alert("Import gagal: "+e.message)}finally{document.getElementById("importFile").value=""}}
+function exportData(){if(!data.length)return alert("Belum ada data untuk diexport.");const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json;charset=utf-8"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`Dompetku_Backup_${new Date().toISOString().slice(0,10)}.json`;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
 render();
 </script>
 <script>if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");</script></body></html>
