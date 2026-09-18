@@ -25,7 +25,7 @@ label{display:block;font-size:13px;font-weight:600;margin:13px 0 7px}.field{widt
 </head>
 <body>
 <div class="app">
-<header><div><h1>Dompetku</h1><div class="sub">Catat pengeluaran tanpa ribet.</div></div><div style="display:flex;gap:8px;align-items:center"><button class="link" onclick="document.getElementById('importFile').click()">Import</button><button class="link" onclick="exportData()">Export</button><input id="importFile" type="file" accept=".json,application/json" style="display:none" onchange="importData(this.files[0])"><input id="month" class="month" type="month"></div></header>
+<header><div><h1>Dompetku</h1><div class="sub">Catat pengeluaran tanpa ribet.</div></div><div style="display:flex;gap:8px;align-items:center"><button class="link" onclick="document.getElementById('importFile').click()">Import</button><button class="link" onclick="showExportMenu()">Export</button><input id="importFile" type="file" accept=".json,application/json" style="display:none" onchange="importData(this.files[0])"><input id="month" class="month" type="month"></div></header>
 <div class="summary"><div class="label">Pengeluaran bulan ini</div><div id="total" class="total">Rp0</div><div class="stats"><div class="stat"><small>Transaksi</small><b id="count">0</b></div><div class="stat"><small>Rata-rata</small><b id="avg">Rp0</b></div></div></div>
 <div class="section"><div class="section-head"><h2>Kategori</h2><button class="link" onclick="openAnalytics()">Lihat analisis →</button></div><div id="cats" class="card categories"></div></div>
 <div class="section"><div class="section-head"><h2>Transaksi terbaru</h2><button class="link" onclick="openHistory()">Lihat semua →</button></div><div id="recent" class="card"></div></div>
@@ -55,6 +55,34 @@ function openAnalytics(){let xs=filtered(),by={};xs.forEach(x=>by[x.cat]=(by[x.c
 function showModal(){document.getElementById("modal").classList.add("show")}function closeModal(){document.getElementById("modal").classList.remove("show")}
 async function importData(file){if(!file)return;try{const text=await file.text();const incoming=JSON.parse(text);if(!Array.isArray(incoming))throw new Error("Format data bukan array.");const valid=incoming.filter(x=>x&&Number.isFinite(Number(x.amount))&&x.date&&x.cat);if(!valid.length)throw new Error("Tidak ada transaksi valid.");const existing=new Map(data.map(x=>[x.id,x]));valid.forEach(x=>{const id=String(x.id||crypto.randomUUID());existing.set(id,{id,amount:Number(x.amount),cat:String(x.cat),date:String(x.date),method:String(x.method||"Lainnya"),note:String(x.note||""),created:Number(x.created||Date.now())})});data=Array.from(existing.values());save();render();alert(`Berhasil import ${valid.length} transaksi ke Dompetku.`)}catch(e){alert("Import gagal: "+e.message)}finally{document.getElementById("importFile").value=""}}
 function exportData(){if(!data.length)return alert("Belum ada data untuk diexport.");const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json;charset=utf-8"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`Dompetku_Backup_${new Date().toISOString().slice(0,10)}.json`;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
+function exportCSV(){if(!data.length)return alert("Belum ada data untuk diexport.");const rows=[["Tanggal","Kategori","Metode","Nominal","Catatan"]];[...data].sort((a,b)=>String(a.date).localeCompare(String(b.date))).forEach(x=>rows.push([x.date,CATS[x.cat]||x.cat,x.method||"Lainnya",x.amount,x.note||""]));const csv="\uFEFF"+rows.map(row=>row.map(v=>{v=String(v??"");return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v}).join(",")).join("\n");const blob=new Blob([csv],{type:"text/csv;charset=utf-8"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`Dompetku_Pengeluaran_${new Date().toISOString().slice(0,10)}.csv`;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
 render();
 </script>
-<script>if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");</script></body></html>
+<script>if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");</script>
+<div id="exportMenu" class="modal" style="display:none;">
+  <div class="modal-card">
+    <div class="modal-head">
+      <strong>Export Data</strong>
+      <button class="link" onclick="closeExportMenu()">Tutup</button>
+    </div>
+    <p style="margin:0 0 14px;color:#6b7280;">Pilih format file yang ingin diekspor.</p>
+    <div style="display:grid;gap:10px;">
+      <button class="primary" onclick="exportData();closeExportMenu();">JSON — Backup Dompetku</button>
+      <button class="primary" onclick="exportCSV();closeExportMenu();">CSV — Buka di Excel</button>
+    </div>
+  </div>
+</div>
+
+<script>
+function showExportMenu(){
+  document.getElementById("exportMenu").style.display="flex";
+}
+function closeExportMenu(){
+  document.getElementById("exportMenu").style.display="none";
+}
+document.getElementById("exportMenu")?.addEventListener("click",function(e){
+  if(e.target===this) closeExportMenu();
+});
+</script>
+
+</body></html>
